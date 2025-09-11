@@ -1,0 +1,147 @@
+{
+  "patient": {
+    "id": "DDME"
+  },
+  "metabolic": {
+    "a1c": {
+      "latest": {
+        "code": "4548-4",
+        "value": 5.5,
+        "unit": "%",
+        "time": "2016-01-04T14:00:00"
+      },
+      "history": [
+        {
+          "code": "4548-4",
+          "value": 5.5,
+          "unit": "%",
+          "time": "2016-01-04T14:00:00"
+        }
+      ]
+    },
+    "glucose": {
+      "fasting_plasma": {
+        "latest": null
+      },
+      "plasma": {
+        "latest": null
+      },
+      "whole_blood": {
+        "latest": null
+      },
+      "ogtt_2h_75g": {
+        "latest": null
+      }
+    },
+    "bmi": {
+      "latest": null
+    },
+    "lipids": {
+      "ldl": {
+        "latest": {
+          "code": "13457-7",
+          "value": 80,
+          "unit": "mg/dl",
+          "time": "2016-01-04T14:00:00"
+        }
+      },
+      "hdl": {
+        "latest": null
+      },
+      "triglycerides": {
+        "latest": null
+      },
+      "total_cholesterol": {
+        "latest": null
+      }
+    },
+    "renal": {
+      "creatinine": {
+        "latest": {
+          "code": "2160-0",
+          "value": 1.1,
+          "unit": "mg/dl",
+          "time": "2016-01-04T14:00:00"
+        }
+      },
+      "egfr": {
+        "latest": null
+      },
+      "bun": {
+        "latest": null
+      }
+    },
+    "urine": {
+      "acr": {
+        "latest": null
+      }
+    }
+  },
+  "diabetes_minimal_ok": true,
+  "diabetes_summary": {
+    "a1c": {
+      "code": "4548-4",
+      "value": 5.5,
+      "unit": "%",
+      "time": "2016-01-04T14:00:00"
+    },
+    "bmi": null,
+    "glucose": {
+      "fasting_plasma": null,
+      "random_plasma_or_whole": null,
+      "ogtt_2h_75g": null
+    },
+    "lipids": {
+      "ldl": {
+        "code": "13457-7",
+        "value": 80,
+        "unit": "mg/dl",
+        "time": "2016-01-04T14:00:00"
+      },
+      "hdl": null,
+      "triglycerides": null,
+      "total_cholesterol": null
+    },
+    "renal": {
+      "creatinine": {
+        "code": "2160-0",
+        "value": 1.1,
+        "unit": "mg/dl",
+        "time": "2016-01-04T14:00:00"
+      },
+      "egfr": null
+    },
+    "urine": {
+      "acr": null
+    }
+  },
+  "clinical_assessment": {
+    "risk_factors": {
+      "diabetes_diagnosis": "normal",
+      "prediabetes_diagnosis": null,
+      "cardiovascular_risk": "low",
+      "kidney_disease_stage": "unknown",
+      "hypertension_status": "unknown",
+      "obesity_status": "unknown",
+      "clinical_alerts": []
+    },
+    "treatment_goals": {
+      "a1c_target": 7.0,
+      "bp_target": "130/80",
+      "ldl_target": 100,
+      "treatment_priority": [],
+      "medication_considerations": []
+    },
+    "data_completeness": {
+      "core_diabetes": true,
+      "cardiovascular_risk": false,
+      "kidney_function": true,
+      "completeness_score": 0.6666666666666666
+    }
+  },
+  "provenance": {
+    "fhir_base_url": "https://hapi.fhir.org/baseR4",
+    "collection_timestamp": "2025-08-10T22:32:13.530718",
+    "ada_guidelines_version": "2023"
+  }
+}

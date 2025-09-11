@@ -1,0 +1,2553 @@
+# Diabetes rules
+
+### Page 1
+
+Standards of Care in Diabetes—2023 Abridged for
+Primary Care Providers
+American Diabetes Association
+The American Diabetes Association’s (ADA’s) Stand-
+ards of Care in Diabetes is updated and published an-
+nually in a supplement to the January issue
+of Diabetes Care. The Standards of Care is developed
+by the ADA’s multidisciplinary Professional Practice
+Committee, which comprises expert diabetes health
+care professionals (HCPs). It includes the most current
+evidence-based recommendations for diagnosing and
+treating adults and children with all forms of diabetes.
+ADA’s grading system uses A, B, C, or E to show the ev-
+idence level that supports each recommendation.
+
+A—Clear evidence from well-conducted, generaliz-
+able randomized controlled trials that are ade-
+quately powered
+
+B—Supportive evidence from well-conducted cohort
+studies
+
+C—Supportive evidence from poorly controlled or
+uncontrolled studies
+
+E—Expert consensus or clinical experience
+This is an abridged version of the current Standards of
+Care containing the evidence-based recommendations
+most pertinent to primary care. The recommendations,
+tables, and ﬁgures included here retain the same num-
+bering used in the complete Standards of Care. All of
+the recommendations included here are substantively
+the same as in the complete Standards of Care. The
+abridged version does not include references. The
+complete 2023 Standards of Care, including all sup-
+porting references, is available at professional.
+diabetes.org/standards.
+1. IMPROVING CARE AND PROMOTING HEALTH
+IN POPULATIONS
+Diabetes and Population Health
+Person-centered care considers individual patient co-
+morbidities and prognoses; is respectful of and respon-
+sive to patient preferences, needs, and values; and
+ensures that patient values guide all clinical decisions.
+Further, social determinants of health (SDOH)—often
+out of direct control of the individual and potentially
+representing lifelong risk—contribute to health care
+and psychosocial outcomes and must be addressed to
+improve all health outcomes.
+Recommendations
+1.1 Ensure treatment decisions are timely, rely on
+evidence-based guidelines, include social commu-
+nity support, and are made collaboratively with
+patients based on individual preferences, progno-
+ses, comorbidities, and informed ﬁnancial consid-
+erations. B
+1.2 Align approaches to diabetes management with
+the Chronic Care Model. This model empha-
+sizes person-centered team care, integrated
+long-term treatment approaches to diabetes
+and comorbidities, and ongoing collaborative
+communication and goal-setting between all
+team members. A
+1.3 Care systems should facilitate in-person and vir-
+tual team-based care, including those knowledge-
+able and experienced in diabetes management as
+part of the team and utilization of patient regis-
+tries, decision support tools, and community in-
+volvement to meet patient needs. B
+Strategies for System-Level Improvement
+Care Teams
+Collaborative, multidisciplinary teams are best suited to
+provide care for people with diabetes and to facilitate
+patients’ self-management with emphasis on avoiding
+therapeutic inertia to achieve recommended metabolic
+targets.
+Telehealth
+Telehealth may increase access to care for people with
+diabetes. Telehealth should be used complementary to
+in-person visits to optimize glycemic management in
+https://doi.org/10.2337/cd23-as01
+©2022 by the American Diabetes Association. Readers may use this article as long as the work is properly cited, the use is educational
+and not for proﬁt, and the work is not altered. More information is available at https://www.diabetesjournals.org/journals/pages/license.
+DIABETESJOURNALS.ORG/CLINICAL
+STANDARDS OF CARE
+Downloaded from http://diabetesjournals.org/clinical/article-pdf/41/1/4/697551/diaclincd23as01.pdf by guest on 11 August 2025
+
+### Page 2
+
+people with unmanaged diabetes. Evidence suggests
+that telehealth may be effective at reducing A1C in peo-
+ple with type 2 diabetes compared with or in addition
+to usual care. Interactive strategies that facilitate commu-
+nication between HCPs and patients appear more
+effective.
+Behaviors and Well-Being
+Successful diabetes care requires a systematic approach
+to supporting patients’ behavior change efforts, includ-
+ing high-quality diabetes self-management education
+and support (DSMES).
+Tailoring Treatment for Social Context
+Recommendations
+1.5 Assess food insecurity, housing insecurity/
+homelessness, ﬁnancial barriers, and social
+capital/social community support to inform treat-
+ment decisions, with referral to appropriate local
+community resources. A
+1.6 Provide patients with additional self-management
+support from lay health coaches, navigators, or
+community health workers when available. A
+Diabetes-related health inequities are well documented
+and have been associated with greater risk for diabetes,
+higher population prevalence, and poorer diabetes out-
+comes. Financial barriers to medication use continue to
+contribute to health disparities.
+2. CLASSIFICATION AND DIAGNOSIS OF
+DIABETES
+Classification
+Diabetes can be classiﬁed into the following general
+categories:
+1. Type 1 diabetes (due to autoimmune b-cell destruc-
+tion, usually leading to absolute insulin deﬁciency
+including latent autoimmune diabetes of adulthood)
+2. Type 2 diabetes (due to a progressive loss of b-cell
+insulin secretion frequently on the background of in-
+sulin resistance)
+3. Speciﬁc types of diabetes due to other causes, e.g.,
+monogenic diabetes syndromes (such as neonatal di-
+abetes and maturity-onset diabetes of the young),
+diseases of the exocrine pancreas (such as cystic ﬁ-
+brosis and pancreatitis), and drug- or chemical-
+induced diabetes (such as with glucocorticoid use,
+in the treatment of HIV/AIDS, or after organ
+transplantation)
+4. Gestational diabetes mellitus (GDM; diabetes diagnosed
+in the second or third trimester of pregnancy that was
+not clearly overt diabetes prior to gestation)
+The classiﬁcation of diabetes type is not always straight-
+forward at presentation, and misdiagnosis may occur.
+Therefore, constant diligence and sometimes reevalua-
+tion is necessary. Children with type 1 diabetes typically
+present with polyuria and polydipsia, and approxi-
+mately half present with diabetic ketoacidosis (DKA).
+Adults with type 1 diabetes can be diagnosed at any age
+and may not present with classic symptoms. They may
+have temporary remission from the need for insulin.
+The diagnosis may become more obvious over time and
+should be reevaluated if there is concern.
+Screening and Diagnostic Tests for Prediabetes
+and Type 2 Diabetes
+The diagnostic criteria for diabetes and prediabetes are
+shown in Table 2.2/2.5. Screening criteria for adults
+and children are listed in Table 2.3 and Table 2.4,
+respectively. Screening for prediabetes and type 2 dia-
+betes risk through an informal assessment of risk factors
+TABLE 2.2/2.5 Criteria for the Screening and Diagnosis of Prediabetes and Diabetes
+Prediabetes
+Diabetes
+A1C
+5.7–6.4% (39–47 mmol/mol)*
+$6.5% (48 mmol/mol)†
+FPG
+100–125 mg/dL (5.6–6.9 mmol/L)*
+$126 mg/dL (7.0 mmol/L)†
+2-hour plasma glucose during 75-g OGTT
+140–199 mg/dL (7.8–11.0 mmol/L)*
+$200 mg/dL (11.1 mmol/L)†
+Random plasma glucose
+—
+$200 mg/dL (11.1 mmol/L)‡
+Adapted from Tables 2.2 and 2.5 in the complete 2023 Standards of Care. *For all three tests, risk is continuous, extending below the lower limit of
+the range and becoming disproportionately greater at the higher end of the range. †In the absence of unequivocal hyperglycemia, diagnosis requires
+two abnormal test results from the same sample or in two separate samples. ‡Only diagnostic in a patient with classic symptoms of hyperglycemia or
+hyperglycemic crisis.
+AMERICAN DIABETES ASSOCIATION
+VOLUME 41, NUMBER 1, WINTER 2023
+Downloaded from http://diabetesjournals.org/clinical/article-pdf/41/1/4/697551/diaclincd23as01.pdf by guest on 11 August 2025
+
+### Page 3
+
+or with an assessment tool, such as the ADA’s Diabetes
+Risk Test (diabetes.org/socrisktest) is recommended
+and can inform who needs laboratory testing.
+Marked discrepancies between measured A1C and
+plasma glucose levels should prompt consideration that
+the A1C assay may not be reliable for that individual,
+and one should consider using an alternate A1C assay
+or plasma blood glucose criteria for diagnosis. (An up-
+dated list of A1C assays with interferences is available
+at ngsp.org/interf.asp.)
+If an individual has a test result near the margins of the
+diagnostic threshold, the clinician should follow that
+person closely and repeat the test in 3–6 months. If us-
+ing the oral glucose tolerance test (OGTT), fasting or
+carbohydrate restriction 3 days prior to the test should
+be avoided, as it can falsely elevate glucose levels.
+Screening Before Pregnancy
+Recommendation
+2.26a In individuals who are planning pregnancy,
+screen those with risk factors B and consider
+testing all individuals of childbearing potential
+for undiagnosed diabetes. E
+See “15. MANAGEMENT OF DIABETES IN PREGNANCY”
+for additional information.
+3. PREVENTION OR DELAY OF TYPE 2
+DIABETES AND ASSOCIATED COMORBIDITIES
+Recommendation
+Monitor for the development of type 2
+diabetes in those with prediabetes at least
+annually; modify based on individual risk/
+beneﬁt assessment. E
+TABLE 2.3 Criteria for Screening for Diabetes or Prediabetes in Asymptomatic Adults
+1. Testing should be considered in adults with overweight or obesity (BMI $25 kg/m2 or $23 kg/m2 in Asian American individuals) who have
+one or more of the following risk factors:
+ First-degree relative with diabetes
+ High-risk race/ethnicity (e.g., African American, Latino, Native American, Asian American, Paciﬁc Islander)
+ History of CVD
+ Hypertension ($130/80 mmHg or on therapy for hypertension)
+ HDL cholesterol level <35 mg/dL (0.90 mmol/L) and/or a triglyceride level >250 mg/dL (2.82 mmol/L)
+ Individuals with polycystic ovary syndrome
+ Physical inactivity
+ Other clinical conditions associated with insulin resistance (e.g., severe obesity, acanthosis nigricans)
+2. People with prediabetes (A1C $5.7% [39 mmol/mol], IGT, or IFG) should be tested yearly.
+3. People who were diagnosed with GDM should have lifelong testing at least every 3 years.
+4. For all other people, testing should begin at age 35 years.
+5. If results are normal, testing should be repeated at a minimum of 3-year intervals, with consideration of more frequent testing depending on
+initial results and risk status.
+6. People with HIV.
+IFG, impaired fasting glucose; IGT, impaired glucose tolerance.
+TABLE 2.4 Risk-Based Screening for Type 2 Diabetes or Prediabetes in Asymptomatic Children and Adolescents in a
+Clinical Setting
+Screening should be considered in youth* who have overweight ($85th percentile) or obesity ($95th percentile) A and who have one or more
+additional risk factors based on the strength of their association with diabetes:
+ Maternal history of diabetes or GDM during the child’s gestation A
+ Family history of type 2 diabetes in ﬁrst- or second-degree relative A
+ Race/ethnicity (Native American, African American, Latino, Asian American, Paciﬁc Islander) A
+ Signs of insulin resistance or conditions associated with insulin resistance (acanthosis nigricans, hypertension, dyslipidemia, polycystic ovary
+syndrome, or small-for-gestational-age birth weight) B
+*After the onset of puberty or after 10 years of age, whichever occurs earlier. If tests are normal, repeat testing at a minimum of 3-year inter-
+vals (or more frequently if BMI is increasing or risk factor proﬁle deteriorating) is recommended. Reports of type 2 diabetes before age
+10 years exist, and this can be considered with numerous risk factors.
+ABRIDGED STANDARDS OF CARE 2023
+DIABETESJOURNALS.ORG/CLINICAL
+Downloaded from http://diabetesjournals.org/clinical/article-pdf/41/1/4/697551/diaclincd23as01.pdf by guest on 11 August 2025
+
+### Page 4
+
+Lifestyle Behavior Change for Diabetes
+Prevention
+Recommendations
+Refer adults with overweight/obesity at high risk
+of type 2 diabetes, as typiﬁed by the Diabetes
+Prevention Program (DPP), to an intensive life-
+style behavior change program to achieve and
+maintain a weight reduction of at least 7% of
+initial body weight through healthy reduced-
+calorie diet and $150 minutes/week of
+moderate-intensity physical activity. A
+A variety of eating patterns can be considered to
+prevent diabetes in individuals with prediabetes. B
+The DPP trial demonstrated that an intensive lifestyle
+intervention could reduce the risk of incident type 2 dia-
+betes by 58% over 3 years. DPP has been proven to be
+cost-effective and technology-assisted programs may be
+effective and should be considered.
+A list of the Centers for Disease Control and
+Prevention–recognized diabetes prevention lifestyle
+change programs is available (cdc.gov/diabetes/
+prevention/ﬁnd-a-program.html).
+Pharmacologic Interventions
+Recommendations
+Metformin therapy for the prevention of type 2
+diabetes should be considered in adults at high
+risk of type 2 diabetes, as typiﬁed by the DPP,
+especially those aged 25–59 years with BMI
+$35 kg/m2, higher fasting plasma glucose (FPG)
+(e.g., $110 mg/dL), and higher A1C (e.g.,
+$6.0%), and in individuals with prior GDM. A
+Long-term use of metformin may be associated
+with biochemical vitamin B12 deﬁciency; con-
+sider periodic measurement of vitamin B12 levels
+in metformin-treated individuals, especially in
+those with anemia or peripheral neuropathy. B
+Various pharmacologic agents have been evaluated for
+type 2 diabetes prevention, and metformin has the
+strongest evidence base. However, no agents have been
+approved by the U.S. Food and Drug Administration
+(FDA) for diabetes prevention.
+Prevention of Vascular Disease and Mortality
+Recommendations
+Prediabetes is associated with heightened cardio-
+vascular (CV) risk; therefore, screening for and
+treatment of modiﬁable risk factors for cardio-
+vascular disease (CVD) are suggested. B
+Statin therapy may increase the risk of type 2
+diabetes in people at high risk of developing type 2
+diabetes. In such individuals, glucose status
+should be monitored regularly and diabetes pre-
+vention approaches reinforced. It is not recom-
+mended that statins be discontinued. B
+3.10 In people with a history of stroke and evidence
+of insulin resistance and prediabetes, pioglita-
+zone may be considered to lower the risk of
+stroke or myocardial infarction (MI). However,
+this beneﬁt needs to be balanced with the in-
+creased risk of weight gain, edema, and fracture.
+A Lower doses may mitigate the risk of adverse
+effects. C
+Person-Centered Care Goals
+Recommendations
+3.11 In adults with overweight/obesity at high risk of
+type 2 diabetes, care goals should include weight
+loss or prevention of weight gain, minimizing
+the progression of hyperglycemia, and attention
+to CV risk and associated comorbidities. B
+3.12 Pharmacotherapy (e.g., for weight management,
+minimizing the progression of hyperglycemia,
+CV risk reduction) may be considered to support
+person-centered care goals. B
+3.13 More intensive preventive approaches should be
+considered in individuals who are at particularly
+high risk of progression to diabetes, including
+individuals with BMI $35 kg/m2, those at higher
+glucose levels (e.g., FPG 110–125 mg/dL, 2-hour
+postchallenge glucose 173–199 mg/dL, A1C
+$6.0%), and individuals with a history of GDM. A
+4. COMPREHENSIVE MEDICAL EVALUATION
+AND ASSESSMENT OF COMORBIDITIES
+Person-Centered Collaborative Care
+Recommendations
+A person-centered communication style that uses
+person-centered, culturally sensitive, and
+strength-based language and active listening;
+elicits individual preferences and beliefs; and as-
+sesses literacy, numeracy, and potential barriers
+to care should be used to optimize health out-
+comes and health-related quality of life (QoL). B
+Diabetes treatment goals are to prevent or delay com-
+plications and optimize QoL (Figure 4.1). The use of
+AMERICAN DIABETES ASSOCIATION
+VOLUME 41, NUMBER 1, WINTER 2023
+Downloaded from http://diabetesjournals.org/clinical/article-pdf/41/1/4/697551/diaclincd23as01.pdf by guest on 11 August 2025
+
+### Page 5
+
+inclusive and empowering language that is respectful
+and free of stigma can help to inform and motivate
+people. Language that judges may undermine this
+effort.
+Comprehensive Medical Evaluation
+Recommendations
+4.3 A complete medical evaluation should be per-
+formed at the initial visit to:
+
+Conﬁrm the diagnosis and classify diabetes. A
+
+Evaluate for diabetes complications, potential co-
+morbid conditions, and overall health status. A
+
+Review previous treatment and risk factor man-
+agement in people with established diabetes. A
+
+Begin engagement with the person with diabe-
+tes in the formulation of a care management
+plan including initial goals of care. A
+
+Develop a plan for continuing care. A
+4.4 A follow-up visit should include most compo-
+nents of the initial comprehensive medical evalu-
+ation (see Table 4.1 in the complete 2023
+Standards of Care). A
+4.5 Ongoing management should be guided by the
+assessment of overall health status, diabetes
+complications, CV risk, hypoglycemia risk, and
+shared decision-making to set therapeutic
+goals. B
+SARS-CoV-2 Vaccines and Other Immunizations
+The importance of routine vaccinations for people with
+diabetes has been elevated by the coronavirus disease
+2019 (COVID-19) pandemic. Preventing avoidable
+infections not only directly prevents morbidity, but
+also reduces hospitalizations, which may additionally
+reduce the risk of acquiring infections such as COVID-
+19. Children and adults with diabetes should receive
+vaccinations according to age-appropriate
+recommendations.
+In people with diabetes, higher blood glucose levels
+prior to and during COVID-19 admission have been
+associated with poor outcomes, including mortality.
+People with diabetes should be prioritized and offered
+SARS-CoV-2 vaccines.
+GOALS
+OF CARE
+• Prevent complications
+• Optimize quality of life
+REVIEW AND AGREE ON MANAGEMENT PLAN
+• Review management plan
+• Mutually agree on changes
+• Ensure agreed modiﬁcation of therapy is implemented
+in a timely fashion to avoid therapeutic inertia
+• Undertake decision cycle regularly (at least once/twice a year)
+• Operate in an integrated system of care
+UTILIZE SHARED DECISION-MAKING TO
+CREATE A MANAGEMENT PLAN
+• Ensure access to DSMES
+• Involve an educated and informed person
+(and the individual’s family/caregiver)
+• Explore personal preferences
+• Language matters (include person-ﬁrst,
+strengths-based, empowering language)
+• Include motivational interviewing, goal
+setting, and shared decision-making
+PROVIDE ONGOING SUPPORT AND
+MONITORING OF:
+• Emotional well-being
+• Lifestyle and health behaviors
+• Tolerability of medications
+• Biofeedback including BGM/CGM,
+weight, step count, A1C, BP, lipids
+AGREE ON MANAGEMENT PLAN
+• Specify SMART goals:
+-
+Speciﬁc
+-
+Measurable
+-
+Achievable
+-
+Realistic
+-
+Time limited
+ASSESS KEY PERSON CHARACTERISTICS
+• The individual’s priorities
+• Current lifestyle and health behaviors
+• Comorbidities (i.e., CVD, CKD, HF)
+• Clinical characteristics (i.e., age, A1C, weight)
+• Issues such as motivation, depression, cognition
+• Social determinants of health
+CONSIDER SPECIFIC FACTORS THAT IMPACT CHOICE
+OF TREATMENT
+• Individualized glycemic and weight goals
+• Impact on weight, hypoglycemia, and cardiorenal protection
+• Underlying physiological factors
+• Side effect proﬁles of medications
+• Complexity of regimen (i.e., frequency, mode of administration)
+• Regimen choice to optimize medication use
+and reduce treatment discontinuation
+• Access, cost, and availability of medication
+DECISION CYCLE FOR PERSON-CENTERED GLYCEMIC MANAGEMENT IN TYPE 2 DIABETES
+IMPLEMENT MANAGEMENT PLAN
+• Ensure there is regular review;
+more frequent contact initially
+is often desirable for DSMES
+FIGURE 4.1 Decision cycle for person-centered glycemic management in type 2 diabetes. Adapted from Davies MJ, Aroda VR, Collins
+BS, et al. Diabetes Care 2022;45:2753–2786.
+ABRIDGED STANDARDS OF CARE 2023
+DIABETESJOURNALS.ORG/CLINICAL
+Downloaded from http://diabetesjournals.org/clinical/article-pdf/41/1/4/697551/diaclincd23as01.pdf by guest on 11 August 2025
+
+### Page 6
+
+Assessment of Selected Comorbidities
+Cancer
+People with diabetes should be encouraged to undergo
+recommended age- and sex-appropriate cancer screen-
+ings and to reduce their modiﬁable cancer risk factors
+(obesity, physical inactivity, and smoking).
+Cognitive Impairment/Dementia
+See “13. OLDER ADULTS.”
+Nonalcoholic Fatty Liver Disease
+Recommendation
+4.10 People with type 2 diabetes or prediabetes with
+cardiometabolic risk factors, who have either
+elevated liver enzymes (ALT) or fatty liver on imag-
+ing or ultrasound, should be evaluated for presence
+of nonalcoholic steatohepatitis and liver ﬁbrosis. C
+5. FACILITATING POSITIVE HEALTH BEHAVIORS
+AND WELL-BEING TO IMPROVE HEALTH
+OUTCOMES
+Essential to achieving diabetes treatment goals are
+DSMES, medical nutrition therapy (MNT), routine physi-
+cal activity, tobacco cessation counseling when needed,
+health behavior counseling, and psychosocial care.
+DSMES
+Recommendations
+There are four critical times to evaluate the need
+for DSMES to promote skills acquisition to aid
+treatment plan implementation, MNT, and well-
+being: at diagnosis, annually and/or when not
+meeting treatment targets, when complicating
+factors develop (medical, physical, psychosocial),
+and when transitions in life and care occur. E
+DSMES should be person-centered, may be offered
+in group or individual settings, and should be com-
+municated with the entire diabetes care team. A
+Digital coaching and digital self-management inter-
+ventions can be effective methods to deliver
+DSMES. B
+Consider addressing barriers to DSMES access
+through telehealth delivery of care B and other
+digital health solutions. C
+MNT
+All HCPs should refer people with diabetes for individu-
+alized MNT provided by a registered dietitian
+nutritionist who is knowledgeable and skilled in provid-
+ing diabetes-speciﬁc MNT.
+Goals of Nutrition Therapy for Adults With Diabetes
+1. To promote and support healthful eating patterns,
+emphasizing a variety of nutrient-dense foods in ap-
+propriate portion sizes, to improve overall health
+and:
+
+Achieve and maintain body weight goals
+
+Attain individualized glycemic, blood pressure
+(BP), and lipid goals
+
+Delay or prevent diabetes complications
+2. To address individual nutrition needs based on per-
+sonal and cultural preferences, health literacy and
+numeracy, access to healthful foods, willingness and
+ability to make behavioral changes, and existing bar-
+riers to change
+3. To maintain the pleasure of eating by providing
+nonjudgmental messages about food choices while
+limiting food choices only when indicated by scien-
+tiﬁc evidence
+4. To provide an individual with diabetes the practical
+tools for developing healthy eating patterns rather
+than focusing on individual macronutrients, micro-
+nutrients, or single foods
+Assessing Food Insecurity
+Any member of the health care team can screen for food
+insecurity using The Hunger Vital Sign. Households are
+considered at risk if they answer either or both of the
+following statements as “often true” or “sometimes
+true” (compared with “never true”):
+“Within the past 12 months, we worried whether our
+food would run out before we got money to buy more.”
+“Within the past 12 months, the food we bought just
+didn’t last, and we didn’t have money to get more.”
+Physical Activity
+Recommendations
+5.28 Children and adolescents with type 1 diabetes C
+or type 2 diabetes or prediabetes B should engage
+in 60 minutes/day or more of moderate- or vigor-
+ous-intensity aerobic activity, with vigorous mus-
+cle-strengthening and bone-strengthening
+activities at least 3 days/week.
+5.29 Most adults with type 1 diabetes C and type 2 dia-
+betes B should engage in 150 minutes or more of
+moderate- to vigorous-intensity aerobic activity per
+week, spread over at least 3 days/week, with no
+AMERICAN DIABETES ASSOCIATION
+VOLUME 41, NUMBER 1, WINTER 2023
+Downloaded from http://diabetesjournals.org/clinical/article-pdf/41/1/4/697551/diaclincd23as01.pdf by guest on 11 August 2025
+
+### Page 7
+
+more than 2 consecutive days without
+activity. Shorter durations (minimum
+75 minutes/week) of vigorous-intensity or
+interval training may be sufﬁcient for younger and
+more physically ﬁt individuals.
+5.30 Adults with type 1 diabetes C and type 2 diabe-
+tes B should engage in 2–3 sessions/week of
+resistance exercise on nonconsecutive days.
+5.31 All adults, and particularly those with type 2
+diabetes, should decrease the amount of time
+spent in daily sedentary behavior. B Prolonged
+sitting should be interrupted every 30 minutes
+for blood glucose beneﬁts. C
+5.32 Flexibility training and balance training are rec-
+ommended 2–3 times/week for older adults with
+diabetes. Yoga and tai chi may be included based
+on individual preferences to increase ﬂexibility,
+muscular strength, and balance. C
+5.33 Evaluate baseline physical activity and sedentary
+time. Promote increase in nonsedentary activities
+above baseline for sedentary individuals with type 1
+diabetes E and type 2 diabetes. B Examples include
+walking, yoga, housework, gardening, swimming,
+and dancing.
+Smoking Cessation: Tobacco and E-Cigarettes
+Recommendations
+5.34 Advise all individuals not to use cigarettes and
+other tobacco products or e-cigarettes. A
+5.35 After identiﬁcation of tobacco or e-cigarette use,
+include smoking cessation counseling and other
+forms of treatment as a routine component of
+diabetes care. A
+Psychosocial Care
+Recommendations
+5.38 Psychosocial care should be provided to all peo-
+ple with diabetes, with the goal of optimizing
+health-related QoL and health outcomes. Such
+care should be integrated with routine medical
+care and delivered by trained HCPs using a col-
+laborative, person-centered, culturally informed
+approach. A When indicated and available, qual-
+iﬁed mental health professionals should provide
+additional targeted mental health care. B
+5.39 Diabetes care teams should implement psycho-
+social screening protocols that may include but
+are not limited to attitudes about diabetes, ex-
+pectations for treatment and outcomes, general
+and diabetes-related mood, stress and/or QoL,
+available resources (ﬁnancial, social, family,
+and emotional), and/or psychiatric history.
+Screening should occur at periodic intervals
+and when there is a change in disease, treat-
+ment, or life circumstances. C
+5.40 When indicated, refer to mental health profes-
+sionals or other trained HCPs for further as-
+sessment and treatment for symptoms of
+diabetes distress, depression, suicidality, anxi-
+ety, treatment-related fear of hypoglycemia,
+disordered eating, and/or cognitive capacities.
+Such specialized psychosocial care should use
+age-appropriate standardized and validated tools
+and treatment approaches. B
+5.42 Routinely monitor people with diabetes, care-
+givers, and family members for diabetes distress,
+particularly when treatment targets are not met
+and/or at the onset of diabetes complications. Re-
+fer to a qualiﬁed mental health professional or
+other trained HCP for further assessment and
+treatment if indicated. B
+Please refer to the ADA position statement “Psychosocial
+Care for People With Diabetes” for a list of assessment tools
+and additional details and the ADA Mental Health Toolkit
+(https://professional.diabetes.org/meetings/mental-
+health-toolkit) for assessment questionnaires and surveys.
+Sleep Health
+Recommendation
+5.55 Consider screening for sleep health in people
+with diabetes, including symptoms of sleep disor-
+ders, disruptions to sleep due to diabetes symp-
+toms or management needs, and worries about
+sleep. Refer to sleep medicine and/or a qualiﬁed
+behavioral health professional as indicated. B
+The associations between sleep problems and diabetes
+are complex: sleep disorders are a risk factor for devel-
+oping type 2 diabetes and possibly GDM. Moreover,
+sleep disturbances are associated with less engagement
+in diabetes self-management and may interfere with the
+achievement of glycemic targets among people with
+type 1 and type 2 diabetes.
+6. GLYCEMIC TARGETS
+Assessment of Glycemic Control
+Glycemic control is assessed by the A1C measurement,
+continuous glucose monitoring (CGM) using time in
+range (TIR) and/or glucose management indicator
+(GMI), and blood glucose monitoring (BGM).
+ABRIDGED STANDARDS OF CARE 2023
+DIABETESJOURNALS.ORG/CLINICAL
+Downloaded from http://diabetesjournals.org/clinical/article-pdf/41/1/4/697551/diaclincd23as01.pdf by guest on 11 August 2025
+
+### Page 8
+
+Glycemic Assessment
+Recommendations
+6.1 Assess glycemic status (A1C or other glycemic mea-
+surement such as TIR or GMI) at least two times a
+year in patients who are meeting treatment goals
+(and who have stable glycemic control). E
+6.2 Assess glycemic status at least quarterly and as needed
+in patients whose therapy has recently changed and/
+or who are not meeting glycemic goals. E
+Glucose Assessment by CGM
+Recommendations
+6.3 Standardized, single-page glucose reports from
+CGM devices with visual cues, such as the ambula-
+tory glucose proﬁle (AGP), should be considered as
+a standard summary for all CGM devices. E
+6.4 TIR is associated with the risk of microvascular
+complications and can be used for assessment
+of glycemic control. Additionally, time below
+range (TBR) and time above range (TAR) are
+useful parameters for the evaluation of the
+treatment plan (Table 6.2). C
+Glycemic Goals
+Recommendations
+6.5a An A1C goal for many nonpregnant adults of
+<7% (53 mmol/mol) without signiﬁcant hypo-
+glycemia is appropriate. A
+6.5b If using AGP/GMI to assess glycemia, a parallel goal
+for many nonpregnant adults is TIR of >70% with
+TBR <4% and time <54 mg/dL <1%. For those
+with frailty or at high risk of hypoglycemia, a target
+of >50% TIR with <1% TBR is recommended. (See
+Figure 6.1 and Table 6.2.) B
+On the basis of HCP judgment and patient pref-
+erence, achievement of lower A1C levels than
+the goal of 7% may be acceptable and even
+beneﬁcial if it can be achieved safely without
+signiﬁcant hypoglycemia or other adverse ef-
+fects of treatment. B
+Less stringent A1C goals (such as <8%
+[64 mmol/mol]) may be appropriate for pa-
+tients with limited life expectancy or where the
+harms of treatment are greater than the bene-
+ﬁts. HCPs should consider deintensiﬁcation of
+therapy if appropriate to reduce the risk of hy-
+poglycemia in patients with inappropriate strin-
+gent A1C targets. B
+The factors to consider in individualizing goals are de-
+picted in Figure 6.2 in the complete 2023 Standards of
+Care. Recommended glycemic targets for many non-
+pregnant adults are shown in Table 6.3. For speciﬁc
+guidance, see “6. Glycemic Targets,” “14. Children and
+Adolescents,” and “15. Management of Diabetes in
+Pregnancy,” and “16. Diabetes Care in the Hospital” in
+the complete 2023 Standards of Care. For information
+about glycemic targets for older adults, see Table 13.1
+in “13. OLDER ADULTS.”
+TABLE 6.2 Standardized CGM Metrics for Clinical Care
+1. Number of days CGM device is worn (recommend 14 days)
+2. Percentage of time CGM device is active (recommend 70% of data from 14 days)
+3. Mean glucose
+4. GMI
+5. Glycemic variability (%CV) target #36%*
+6. TAR: % of readings and time >250 mg/dL (>13.9 mmol/L)
+Level 2 hyperglycemia
+7. TAR: % of readings and time 181–250 mg/dL (10.1–13.9 mmol/L)
+Level 1 hyperglycemia
+8. TIR: % of readings and time 70–180 mg/dL (3.9–10.0 mmol/L)
+In range
+9. TBR: % of readings and time 54–69 mg/dL (3.0–3.8 mmol/L)
+Level 1 hypoglycemia
+10. TBR: % of readings and time <54 mg/dL (<3.0 mmol/L)
+Level 2 hypoglycemia
+*Some studies suggest that lower %CV targets (<33%) provide additional protection against hypoglycemia for those receiving insulin or sul-
+fonylureas. %CV, percentage coefﬁcient of variation. Adapted from Battelino T, Danne T, Bergenstal RM, et al. Diabetes Care 2019;42:
+1593–1603.
+AMERICAN DIABETES ASSOCIATION
+VOLUME 41, NUMBER 1, WINTER 2023
+Downloaded from http://diabetesjournals.org/clinical/article-pdf/41/1/4/697551/diaclincd23as01.pdf by guest on 11 August 2025
+
+### Page 9
+
+AGP Report: Continuous Glucose Monitoring
+Test Patient
+DOB: Jan 1, 1970
+14 Days: August 8–August 21, 2021
+Time CGM Active: 100%
+Average Glucose...........................................175 mg/dL
+Goal: <154 mg/dL
+Glucose Management Indicator (GMI) ...............7.5%
+Goal: <7%
+Glucose Variability ............................................ 45.5%
+Goal: <36%
+AGP is a summary of glucose values from the report period, with median (50%) and other percentiles shown as if they occurred in a single day.
+Very High
+20%
+High
+24%
+Target
+Low
+5%
+Very Low
+5%
+46%
+Goal: >70%
+Goal: <5%
+Goal: <1%
+44%
+Goal: <25%
+10%
+Goal: <4%
+Each 1% time in range = ~15 minutes
+mg/dL
+Target
+Range
+12am
+3am
+6am
+9am
+12pm
+3pm
+6pm
+9pm
+12am
+mg/dL
+95%
+75%
+50%
+25%
+5%
+12pm
+12pm
+12pm
+12pm
+12pm
+12pm
+12pm
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+mg/dL
+mg/dL
+FIGURE 6.1 Key points included in standard AGP report. Reprinted from Holt RIG, DeVries JH, Hess-Fischl A, et al. Diabetes Care
+2021;44:2589–2625.
+ABRIDGED STANDARDS OF CARE 2023
+DIABETESJOURNALS.ORG/CLINICAL
+Downloaded from http://diabetesjournals.org/clinical/article-pdf/41/1/4/697551/diaclincd23as01.pdf by guest on 11 August 2025
+
+### Page 10
+
+Hypoglycemia
+Recommendations regarding the classiﬁcation of hypo-
+glycemia are outlined in Table 6.4. See the complete
+2023 Standards of Care for detailed hypoglycemia
+strategies.
+Recommendations
+6.10 Occurrence and risk for hypoglycemia should
+be reviewed at every encounter and investi-
+gated as indicated. Awareness of hypoglyce-
+mia should be considered using validated
+tools. C
+6.11 Glucose (approximately 15–20 g) is the pre-
+ferred treatment for the conscious individual
+with blood glucose <70 mg/dL (3.9 mmol/L),
+although any form of carbohydrate that contains
+glucose may be used. Fifteen minutes after treat-
+ment, if BGM shows continued hypoglycemia,
+the treatment should be repeated. Once the
+BGM or glucose pattern is trending up, the indi-
+vidual should consume a meal or snack to pre-
+vent recurrence of hypoglycemia. B
+6.12 Glucagon should be prescribed for all individuals
+at increased risk of level 2 or 3 hypoglycemia, so
+that it is available should it be needed. Care-
+givers, school personnel, or family members pro-
+viding support to these individuals should know
+where it is and when and how to administer it.
+Glucagon administration is not limited to HCPs. E
+6.13 Hypoglycemia unawareness or one or more
+episodes of level 3 hypoglycemia should trigger
+hypoglycemia avoidance education and reevalua-
+tion and adjustment of the treatment plan to de-
+crease hypoglycemia. E
+6.14 Insulin-treated patients with hypoglycemia un-
+awareness, one level 3 hypoglycemic event, or a
+pattern of unexplained level 2 hypoglycemia
+should be advised to raise their glycemic targets
+to strictly avoid hypoglycemia for at least several
+weeks in order to partially reverse hypoglycemia
+unawareness and reduce risk of future episodes. A
+6.15 Ongoing assessment of cognitive function is sug-
+gested with increased vigilance for hypoglycemia
+by the clinician, patient, and caregivers if im-
+paired or declining cognition is found. B
+7. DIABETES TECHNOLOGY
+Diabetes technology includes insulin delivery devices such
+as insulin pumps (also called continuous subcutaneous in-
+sulin infusion [CSII]) and connected insulin pens, glucose
+monitoring devices via CGM systems and glucose meters,
+automated insulin delivery (AID) systems that integrate
+CGM and insulin delivery with algorithms to modulate in-
+sulin delivery, and diabetes self-management support
+software.
+General Device Principles
+Recommendations
+The type(s) and selection of devices should be in-
+dividualized based on a person’s speciﬁc needs,
+preferences, and skill level. In the setting of an in-
+dividual whose diabetes is partially or wholly
+managed by someone else (e.g., a young child or
+a person with cognitive impairment or dexterity,
+psychosocial, and/or physical limitations), the
+caregiver’s skills and preferences are integral to
+the decision-making process. E
+TABLE 6.3 Summary of Glycemic Recommendations for
+Many Nonpregnant Adults With Diabetes
+A1C
+<7.0% (53 mmol/mol)*#
+Preprandial capillary
+plasma glucose
+80–130 mg/dL* (4.4–7.2 mmol/L)
+Peak postprandial capillary
+plasma glucose†
+<180 mg/dL* (10.0 mmol/L)
+*More or less stringent glycemic goals may be appropriate for individ-
+ual patients. #CGM may be used to assess glycemic target as noted in
+Recommendation 6.5b and Figure 6.1. Goals should be individualized
+based on duration of diabetes, age/life expectancy, comorbid condi-
+tions, known CVD or advanced microvascular complications, hypogly-
+cemia unawareness, and individual patient considerations (as per
+Figure 6.2 in the complete 2023 Standards of Care). †Postprandial
+glucose may be targeted if A1C goals are not met despite reaching
+preprandial glucose goals. Postprandial glucose measurements should
+be made 1–2 hours after the beginning of the meal, generally peak
+levels in patients with diabetes.
+TABLE 6.4 Classiﬁcation of Hypoglycemia
+Glycemic Criteria/Description
+Level 1
+Glucose <70 mg/dL (3.9 mmol/L) and $54 mg/dL
+(3.0 mmol/L)
+Level 2
+Glucose <54 mg/dL (3.0 mmol/L)
+Level 3
+A severe event characterized by altered mental and/or
+physical status requiring assistance for treatment of
+hypoglycemia
+Reprinted from Agiostratidou G, Anhalt H, Ball D, et al. Diabetes Care
+2017;40:1622–1630.
+AMERICAN DIABETES ASSOCIATION
+VOLUME 41, NUMBER 1, WINTER 2023
+Downloaded from http://diabetesjournals.org/clinical/article-pdf/41/1/4/697551/diaclincd23as01.pdf by guest on 11 August 2025
+
+### Page 11
+
+When prescribing a device, ensure that people
+with diabetes/caregivers receive initial and on-
+going education and training, either in-person or
+remotely, and ongoing evaluation of technique,
+results, and their ability to utilize data, including
+uploading/sharing data (if applicable), to moni-
+tor and adjust therapy. C
+Initiation of CGM, CSII, and/or AID early in
+the treatment of diabetes can be beneﬁcial
+depending on a person’s/caregiver’s needs and
+preferences. C
+BGM
+Recommendations
+People who are on insulin using BGM should be
+encouraged to check their blood glucose levels
+when appropriate based on their insulin therapy.
+This may include checking when fasting, prior to
+meals and snacks, after meals, at bedtime, prior to
+exercise, when hypoglycemia is suspected, after
+treating low blood glucose levels until they are
+normoglycemic, when hyperglycemia is sus-
+pected, and prior to and while performing critical
+tasks such as driving. B
+Although BGM in individuals on noninsulin thera-
+pies has not consistently shown clinically signiﬁcant
+reductions in A1C, it may be helpful when altering
+nutrition plan, physical activity, and/or medications
+(particularly medications that can cause hypoglyce-
+mia) in conjunction with a treatment adjustment
+program. E
+CGM Devices
+Table 6.2 summarizes CGM-derived glycemic metrics,
+and Table 7.3 deﬁnes the available types of CGM
+devices.
+Recommendations
+7.11 Real-time CGM (rtCGM) A or intermittently
+scanned CGM (isCGM) B should be offered for
+diabetes management in adults with diabetes
+on multiple daily injections (MDI) or CSII who
+are capable of using the devices safely (either
+by themselves or with a caregiver). The choice
+of device should be made based on the individ-
+ual’s circumstances, preferences, and needs.
+7.12 rtCGM A or isCGM C should be offered for dia-
+betes management in adults with diabetes on
+basal insulin who are capable of using the devi-
+ces safely (either by themselves or with a care-
+giver). The choice of device should be made
+based on the individual’s circumstances, prefer-
+ences, and needs.
+7.15 In people with diabetes on MDI or CSII, rtCGM
+devices should be used as close to daily as possi-
+ble for maximal beneﬁt. A isCGM devices should
+be scanned frequently, at a minimum once every
+8 hours. A People with diabetes should have un-
+interrupted access to their supplies to minimize
+gaps in CGM. A
+7.17 Periodic use of rtCGM or isCGM or use of
+professional CGM can be helpful for diabetes
+management in circumstances where continuous
+use of CGM is not appropriate, desired, or
+available. C
+7.18 Skin reactions, either due to irritation or allergy,
+should be assessed and addressed to aid in suc-
+cessful use of devices. E
+Inpatient Care
+Recommendation
+7.30 People with diabetes who are competent to
+safely use diabetes devices such as insulin
+pumps and CGM systems should be supported
+to continue using them in an inpatient setting
+TABLE 7.3 CGM Devices
+Type of CGM
+Description
+rtCGM
+CGM systems that measure and display glucose levels continuously.
+isCGM with and without alarms
+CGM systems that measure glucose levels continuously but require scanning for visualization and storage
+of glucose values.
+Professional CGM
+CGM devices that are placed on the person with diabetes in the HCP’s ofﬁce (or with remote instruction)
+and worn for a discrete period of time (generally 7–14 days). Data may be blinded or visible to the
+person wearing the device. The data are used to assess glycemic patterns and trends. Unlike rtCGM and
+isCGM devices, these devices are clinic-based and not owned by the person with diabetes.
+ABRIDGED STANDARDS OF CARE 2023
+DIABETESJOURNALS.ORG/CLINICAL
+Downloaded from http://diabetesjournals.org/clinical/article-pdf/41/1/4/697551/diaclincd23as01.pdf by guest on 11 August 2025
+
+### Page 12
+
+or during outpatient procedures, once
+competency is established and proper supervision
+is available. E
+Other Technologies
+See “7. Diabetes Technologies” in the complete 2023
+Standards of Care for more information on insulin de-
+livery systems, including insulin syringes, pens, con-
+nected pens, pumps, and AID systems; software
+systems; and digital health systems that combine tech-
+nology with online or virtual coaching.
+An ADA resource available at consumerguide.diabetes.
+org can help HCPs and people with diabetes make
+decisions as to the initial choice of devices. Other
+sources, including HCPs and device manufacturers,
+can help people troubleshoot when difﬁculties
+arise.
+8. OBESITY AND WEIGHT MANAGEMENT FOR
+THE PREVENTION AND TREATMENT OF TYPE 2
+DIABETES
+Strong evidence exists that obesity management can de-
+lay the progression from prediabetes to type 2 diabetes
+and is highly beneﬁcial in treating type 2 diabetes.
+Assessment
+Recommendations
+Use person-centered, nonjudgmental lan-
+guage that fosters collaboration between indi-
+viduals and HCPs, including person-ﬁrst
+language (e.g., “person with obesity” rather
+than “obese person”). E
+Measure height and weight and calculate BMI
+at annual visits or more frequently. Assess
+weight trajectory to inform treatment consider-
+ations. E
+Individuals with diabetes and overweight or obe-
+sity may beneﬁt from modest or larger magni-
+tudes of weight loss. Relatively small weight loss
+(approximately 3–7% of baseline weight) im-
+proves glycemia and other intermediate CV risk
+factors. A Larger, sustained weight losses
+(>10%) usually confer greater beneﬁts, includ-
+ing disease-modifying effects and possible remis-
+sion of type 2 diabetes, and may improve
+long-term CV outcomes and mortality. B
+Nutrition, Physical Activity, and Behavioral
+Therapy
+Recommendations
+Nutrition, physical activity, and behavioral ther-
+apy to achieve and maintain $5% weight loss
+are recommended for most people with type 2
+diabetes and overweight or obesity. Additional
+weight loss usually results in further improve-
+ments in the management of diabetes and CV
+risk. B
+Such interventions should include a high
+frequency of counseling ($16 sessions in
+6 months) and focus on nutrition changes, physi-
+cal activity, and behavioral strategies to achieve
+a 500–750 kcal/day energy deﬁcit. A
+8.10 Evaluate systemic, structural, and socioeconomic
+factors that may impact nutrition patterns and
+food choices, such as food insecurity and hunger,
+access to healthful food options, cultural circum-
+stances, and SDOH. C
+8.11 For those who achieve weight loss goals, long-
+term ($1 year) weight maintenance programs
+are recommended when available. Such pro-
+grams should, at minimum, provide monthly
+contact and support, recommend ongoing moni-
+toring of body weight (weekly or more fre-
+quently) and other self-monitoring strategies,
+and encourage regular physical activity
+(200–300 minutes/week). A
+8.12 Short-term nutrition intervention using struc-
+tured, very-low-calorie meals (800–1,000 kcal/
+day) may be prescribed for carefully selected in-
+dividuals by trained practitioners in medical set-
+tings with close monitoring. Long-term,
+comprehensive weight maintenance strategies
+and counseling should be integrated to maintain
+weight loss. B
+Pharmacotherapy
+Recommendations
+8.16 Obesity pharmacotherapy is effective as an ad-
+junct to nutrition, physical activity, and behav-
+ioral counseling for selected people with type 2
+diabetes and BMI $27 kg/m2. Potential beneﬁts
+and risks must be considered. A
+8.17 If obesity pharmacotherapy is effective (typically
+deﬁned as $5% weight loss after 3 months’
+use), further weight loss is likely with continued
+use. When early response is insufﬁcient (typi-
+cally <5% weight loss after 3 months’ use) or if
+AMERICAN DIABETES ASSOCIATION
+VOLUME 41, NUMBER 1, WINTER 2023
+Downloaded from http://diabetesjournals.org/clinical/article-pdf/41/1/4/697551/diaclincd23as01.pdf by guest on 11 August 2025
+
+### Page 13
+
+there are signiﬁcant safety or tolerability issues,
+consider discontinuation of the medication and
+evaluate alternative medications or treatment
+approaches. A
+See Table 9.2 and Figure 9.3 for information on
+glucose-lowering medications with weight efﬁcacy.
+Approved Obesity Pharmacotherapy Options
+Medications approved by the FDA for the treatment of
+obesity are summarized in Table 8.2 of the complete
+2023 Standards of Care. Nearly all of these medications
+can improve glycemia in addition to weight loss for peo-
+ple with type 2 diabetes.
+Metabolic Surgery
+Recommendations
+8.18 Metabolic surgery should be a recommended
+option to treat type 2 diabetes in screened surgi-
+cal candidates with BMI $40 kg/m2 (BMI
+$37.5 kg/m2 in Asian American individuals)
+and in adults with BMI 35.0–39.9 kg/m2
+(32.5–37.4 kg/m2 in Asian American individu-
+als) who do not achieve durable weight loss and
+improvement in comorbidities (including hyper-
+glycemia) with nonsurgical methods. A
+8.19 Metabolic surgery may be considered as an op-
+tion to treat type 2 diabetes in adults with BMI
+30.0–34.9 kg/m2 (27.5–32.4 kg/m2 in Asian
+American individuals) who do not achieve dura-
+ble weight loss and improvement in comorbid-
+ities (including hyperglycemia) with nonsurgical
+methods. A
+8.21 People being considered for metabolic surgery
+should be evaluated for comorbid psychological
+conditions and social and situational circumstan-
+ces that have the potential to interfere with sur-
+gery outcomes. B
+8.22 People who undergo metabolic surgery should
+receive long-term medical and behavioral sup-
+port and routine micronutrient, nutritional, and
+metabolic status monitoring. B
+9. PHARMACOLOGIC APPROACHES TO
+GLYCEMIC TREATMENT
+Pharmacologic Therapy for Adults With Type 1
+Diabetes
+See “9. Pharmacologic Approaches to Glycemic
+Treatment” in the complete 2023 Standards of Care for
+detailed information on pharmacologic approaches to
+type 1 diabetes management.
+Pharmacologic Therapy for Adults With Type 2
+Diabetes
+Figure 9.3 and Table 9.2 provide details for informed
+decision-making on pharmacologic agents for type 2
+diabetes.
+Recommendations
+9.4a Healthy lifestyle behaviors, DSMES, avoidance of
+clinical inertia, and SDOH should be considered
+in the glucose-lowering management of type 2
+diabetes. Pharmacologic therapy should be
+guided by person-centered treatment factors, in-
+cluding comorbidities and treatment goals. A
+9.4b In adults with type 2 diabetes and established/
+high risk of atherosclerotic cardiovascular disease
+(ASCVD), heart failure (HF), and/or chronic kid-
+ney disease (CKD), the treatment regimen should
+include agents that reduce cardiorenal risk. A
+9.4c Pharmacologic approaches that provide adequate
+efﬁcacy to achieve and maintain treatment goals
+should be considered, such as metformin or other
+agents, including combination therapy. A
+9.4d Weight management is an impactful component
+of glucose-lowering management in type 2 dia-
+betes. The glucose-lowering treatment regimen
+should consider approaches that support weight
+management goals. A
+Metformin should be continued upon initiation
+of insulin therapy (unless contraindicated or
+not tolerated) for ongoing glycemic and meta-
+bolic beneﬁts. A
+Early combination therapy can be considered in
+some individuals at treatment initiation to ex-
+tend the time to treatment failure. A
+The early introduction of insulin should be
+considered if there is evidence of ongoing
+catabolism (weight loss), if symptoms of hyper-
+glycemia are present, or when A1C levels
+(>10% [86 mmol/mol]) or blood glucose levels
+($300 mg/dL [16.7 mmol/L]) are very high. E
+A person-centered approach should guide the
+choice of pharmacologic agents. Consider the ef-
+fects on CV and renal comorbidities, efﬁcacy, hypo-
+glycemia risk, impact on weight, cost and access,
+risk for side effects, and individual preferences. E
+Among individuals with type 2 diabetes who have
+established ASCVD or indicators of high CV risk, es-
+tablished kidney disease, or HF, a sodium–glucose
+ABRIDGED STANDARDS OF CARE 2023
+DIABETESJOURNALS.ORG/CLINICAL
+Downloaded from http://diabetesjournals.org/clinical/article-pdf/41/1/4/697551/diaclincd23as01.pdf by guest on 11 August 2025
+
+### Page 14
+
+TABLE 9.2 Medications for Lowering Glucose, Summary of Characteristics
+*For agent-speciﬁc dosing recommendations, please refer to manufacturers’ prescribing information. 1Tsapas A, Avgerinos I, Karagiannis T, et al. Ann Intern Med 2020;173:278–286.
+2Tsapas A, Karagiannis T, Kakotrichi P, et al. Diabetes Obes Metab 2021;23:2116–2124. CVOT, cardiovascular outcomes trial; GIP, gastric inhibitory polypeptide; GLP-1 RA, glucagon-like
+peptide 1 receptor agonist; NASH, nonalcoholic steatohepatitis; SQ, subcutaneous; T2DM, type 2 diabetes mellitus. Reprinted from Davies MJ, Aroda VR, Collins BS, et al. Diabetes Care
+2022;45:2753–2786.
+AMERICAN DIABETES ASSOCIATION
+VOLUME 41, NUMBER 1, WINTER 2023
+Downloaded from http://diabetesjournals.org/clinical/article-pdf/41/1/4/697551/diaclincd23as01.pdf by guest on 11 August 2025
+
+### Page 15
+
+FIGURE 9.3 Use of glucose-lowering medications in the management of type 2 diabetes. ACEi, ACE inhibitor; ACR, albumin-to-creatinine ratio; CVOT, cardiovascular outcomes
+trial; DPP-4i, dipeptidyl peptidase 4 inhibitor; GLP-1 RA, glucagon-like peptide 1 receptor agonist; HHF, hospitalization for heart failure; SGLT2i, sodium-glucose cotransporter 2
+inhibitor; T2D, type 2 diabetes. Adapted from Davies MJ, Aroda VR, Collins BS, et al. Diabetes Care 2022;45:2753–2786.
+ABRIDGED STANDARDS OF CARE 2023
+DIABETESJOURNALS.ORG/CLINICAL
+Downloaded from http://diabetesjournals.org/clinical/article-pdf/41/1/4/697551/diaclincd23as01.pdf by guest on 11 August 2025
+
+### Page 16
+
+cotransporter 2 (SGLT2) inhibitor and/or glucagon-
+like peptide 1 (GLP-1) receptor agonist with demon-
+strated CVD beneﬁt (Figure 9.3, Table 9.2, and
+Tables 10.3B and 10.3C in the complete 2023 Stand-
+ards of Care) is recommended as part of the glucose-
+lowering regimen and comprehensive CV risk reduc-
+tion, independent of A1C and in consideration of
+person-speciﬁc factors. (See “10. CVD AND RISK
+MANAGEMENT,” for details on CV risk reduction
+recommendations). A
+9.10 In adults with type 2 diabetes, a GLP-1 receptor
+agonist is preferred to insulin when possible. A
+9.11 If insulin is used, combination therapy with a
+GLP-1 receptor agonist is recommended for
+greater efﬁcacy, durability of treatment effect,
+and weight and hypoglycemia beneﬁt. A
+9.13 Medication regimen and medication-taking be-
+havior should be reevaluated at regular intervals
+(every 3–6 months) and adjusted as needed to
+incorporate speciﬁc factors that impact choice of
+treatment (Figure 4.1 and Table 9.2). E
+9.14 Clinicians should be aware of the potential for over-
+basalization with insulin therapy. Clinical signals
+that may prompt evaluation of overbasalization in-
+clude basal dose more than 0.5 units/kg/day,
+high bedtime–morning or post- to preprandial
+glucose differential, hypoglycemia (aware or un-
+aware), and high glycemic variability. Indication
+of overbasalization should prompt reevaluation
+to further individualize therapy. E
+Both comprehensive lifestyle modiﬁcations and phar-
+macotherapy should begin at diagnosis. Not all treat-
+ment modiﬁcations involve sequential add-on
+therapy, but may involve switching therapy or wean-
+ing current therapy to accommodate for changes in
+the patient’s overall goals (e.g., the initiation of
+agents for reasons beyond glycemic beneﬁt). See “9.
+Pharmacologic Approaches to Glycemic Treatment” in
+the complete 2023 Standards of Care for more de-
+tailed information on pharmacologic approaches to
+type 2 diabetes management, including Figure 9.4 for
+guidance on intensifying to injectable therapies in
+type 2 diabetes.
+10. CVD AND RISK MANAGEMENT
+ASCVD—deﬁned as coronary heart disease, cerebrovascu-
+lar disease, or peripheral arterial disease (PAD) presumed
+to be of atherosclerotic origin—is the leading cause of
+morbidity and mortality for individuals with
+diabetes. Controlling individual CV risk factors helps
+prevent or slow ASCVD in people with diabetes. HF is an-
+other major cause of morbidity and mortality from CVD.
+Risk factors, including obesity/overweight, hyperten-
+sion, dyslipidemia, smoking, family history of prema-
+ture coronary disease, CKD, and the presence of
+albuminuria, should be assessed at least annually to
+prevent and manage both ASCVD and HF.
+The Risk Calculator
+The American College of Cardiology/American Heart
+Association ASCVD risk calculator (Risk Estimator Plus)
+is generally a useful tool to estimate 10-year risk of a
+ﬁrst ASCVD event (available online at tools.acc.org/
+ASCVD-Risk-Estimator-Plus).
+Hypertension/BP Control
+Hypertension, deﬁned as a systolic BP $130 mmHg or a
+diastolic BP $80 mmHg, is common among people with
+either type 1 or type 2 diabetes.
+Screening and Diagnosis
+Recommendations
+BP should be measured at every routine clinical
+visit. When possible, individuals found to have
+elevated BP (systolic BP 120–129 mmHg and
+diastolic <80 mmHg) should have BP con-
+ﬁrmed using multiple readings, including meas-
+urements on a separate day, to diagnose
+hypertension. A Hypertension is deﬁned as a
+systolic BP $130 mmHg or a diastolic BP $80
+mmHg based on an average of $2 measure-
+ments obtained on $2 occasions. A Individuals
+with BP $180/110 mmHg and CVD could be
+diagnosed with hypertension at a single visit. E
+All people with hypertension and diabetes
+should monitor their BP at home. A
+Treatment Goals
+Recommendations
+For people with diabetes and hypertension, BP
+targets should be individualized through a
+shared decision-making process that addresses
+CV risk, potential adverse effects of antihyper-
+tensive medications, and patient preferences. B
+People with diabetes and hypertension qualify
+for antihypertensive drug therapy when the BP
+is persistently elevated $130/80 mmHg. The
+on-treatment target BP goal is <130/80 mmHg,
+if it can be safely attained. B
+AMERICAN DIABETES ASSOCIATION
+VOLUME 41, NUMBER 1, WINTER 2023
+Downloaded from http://diabetesjournals.org/clinical/article-pdf/41/1/4/697551/diaclincd23as01.pdf by guest on 11 August 2025
+
+### Page 17
+
+Treatment Strategies
+Lifestyle Intervention
+Recommendation
+For people with BP >120/80 mmHg, lifestyle inter-
+vention consists of weight loss when indicated, a
+Dietary Approaches to Stop Hypertension (DASH)-
+style eating pattern including reducing sodium and
+increasing potassium intake, moderation of alcohol
+intake, and increased physical activity. A
+Pharmacologic Interventions
+Recommendations
+Individuals with conﬁrmed ofﬁce-based BP
+$160/100 mmHg should, in addition to life-
+style therapy, have prompt initiation and timely
+titration of two drugs or a single-pill combina-
+tion of drugs demonstrated to reduce CV events
+in people with diabetes. A
+10.10 Multiple-drug therapy is generally required to
+achieve BP targets. However, combinations of
+ACE inhibitors and angiotensin receptor blockers
+(ARBs) and combinations of ACE inhibitors or
+ARBs with direct renin inhibitors should not be
+used. A
+10.11 An ACE inhibitor or ARB, at the maximum
+tolerated dose indicated for BP treatment, is
+the recommended ﬁrst-line treatment for
+hypertension in people with diabetes and
+urinary albumin-to-creatinine ratio (UACR)
+$300 mg/g creatinine A or 30–299 mg/g
+creatinine. B If one class is not tolerated, the
+other should be substituted. B
+10.12 For patients treated with an ACE inhibitor,
+ARB, or diuretic, serum creatinine/estimated
+glomerular ﬁltration rate (eGFR) and serum
+potassium levels should be monitored at least
+annually. B
+See Figure 10.2 in complete 2023 Standards of Care
+for more information on hypertension treatment
+strategies.
+Resistant Hypertension
+Recommendation
+10.13 Individuals with hypertension who are not
+meeting BP targets on three classes of antihy-
+pertensive medications (including a diuretic)
+should be considered for mineralocorticoid
+receptor antagonist (MRA) therapy. A
+Lipid Management
+Lifestyle Intervention
+Recommendations
+10.14 Lifestyle modiﬁcation focusing on weight loss
+(if indicated); application of a Mediterranean
+or DASH eating pattern; reduction of saturated
+fat and trans fat; increase of dietary n-3 fatty
+acids, viscous ﬁber, and plant stanols/sterols
+intake; and increased physical activity should
+be recommended to improve the lipid proﬁle
+and reduce the risk of developing ASCVD in
+people with diabetes. A
+10.15 Intensify lifestyle therapy and optimize glyce-
+mic control for patients with elevated triglyc-
+eride levels ($150 mg/dL [1.7 mmol/L])
+and/or low HDL cholesterol (<40 mg/dL
+[1.0 mmol/L] for men, <50 mg/dL
+[1.3 mmol/L] for women). C
+Ongoing Therapy and Monitoring With Lipid
+Panel
+Recommendations
+10.16 In adults not taking statins or other lipid-
+lowering therapy, it is reasonable to obtain a
+lipid proﬁle at the time of diabetes diagnosis,
+at an initial medical evaluation, and every
+5 years thereafter if under the age of 40 years,
+or more frequently if indicated. E
+10.17 Obtain a lipid proﬁle at initiation of statins or
+other lipid-lowering therapy, 4–12 weeks after
+initiation or a change in dose, and annually
+thereafter, as it may help to monitor the
+response to therapy and inform medication
+taking. E
+Statin Treatment
+Primary Prevention
+Recommendations
+10.18 For people with diabetes aged 40–75 years
+without ASCVD, use moderate-intensity
+statin therapy in addition to lifestyle
+therapy. A
+10.19 For people with diabetes aged 20–39 years
+with additional ASCVD risk factors, it may be
+reasonable to initiate statin therapy in addition
+to lifestyle therapy. C
+10.20 For people with diabetes aged 40–75 at
+higher CV risk, including those with one or
+ABRIDGED STANDARDS OF CARE 2023
+DIABETESJOURNALS.ORG/CLINICAL
+Downloaded from http://diabetesjournals.org/clinical/article-pdf/41/1/4/697551/diaclincd23as01.pdf by guest on 11 August 2025
+
+### Page 18
+
+more ASCVD risk factors, it is recommended
+to use high-intensity statin therapy to
+reduce LDL cholesterol by $50% of baseline
+and to target an LDL cholesterol goal of
+<70 mg/dL. B
+10.21 For people with diabetes aged 40–75 years at
+higher CV risk, especially those with multiple
+ASCVD risk factors and an LDL cholesterol
+$70 mg/dL, it may be reasonable to add ezeti-
+mibe or a PCSK9 inhibitor to maximum toler-
+ated statin therapy. C
+10.22 In adults with diabetes aged >75 years already
+on statin therapy, it is reasonable to continue
+statin treatment. B
+10.23 In adults with diabetes aged >75 years, it may
+be reasonable to initiate moderate-intensity
+statin therapy after discussion of potential ben-
+eﬁts and risks. C
+Secondary Prevention
+Recommendations
+10.25 For people of all ages with diabetes and
+ASCVD, high-intensity statin therapy should be
+added to lifestyle therapy. A
+10.26 For people with diabetes and ASCVD, treatment
+with high-intensity statin therapy is recom-
+mended to target an LDL cholesterol reduction of
+$50% from baseline and an LDL cholesterol goal
+of <55 mg/dL. Addition of ezetimibe or a PCSK9
+inhibitor with proven beneﬁt in this population is
+recommended if this goal is not achieved on
+maximum tolerated statin therapy. B
+10.27 For individuals who do not tolerate the in-
+tended intensity, the maximum tolerated statin
+dose should be used. E
+See “10. Cardiovascular Disease and Risk Management”
+in the complete 2023 Standards of Care for detailed
+guidance on statin therapy in patients with diabetes.
+Treatment of Other Lipoprotein Fractions or Targets
+Recommendations
+10.28 For individuals with fasting triglyceride levels
+$500 mg/dL, evaluate for secondary causes of
+hypertriglyceridemia and consider medical
+therapy to reduce the risk of pancreatitis. C
+10.29 In adults with moderate hypertriglyceridemia
+(fasting or nonfasting triglycerides 175–
+499 mg/dL), clinicians should address and
+treat lifestyle factors (obesity and metabolic
+syndrome), secondary factors (diabetes,
+chronic liver or kidney disease and/or ne-
+phrotic syndrome, hypothyroidism), and medi-
+cations that raise triglycerides. C
+10.30 In individuals with ASCVD or other CV risk fac-
+tors on a statin with controlled LDL cholesterol
+but elevated triglycerides (135–499 mg/dL),
+the addition of icosapent ethyl can be consid-
+ered to reduce CV risk. A
+Other Combination Therapy
+Recommendations
+10.31 Statin plus ﬁbrate combination therapy has not
+been shown to improve ASCVD and is generally
+not recommended. A
+10.32 Statin plus niacin combination therapy has
+not been shown to provide additional CV
+beneﬁt above statin therapy alone, may in-
+crease the risk of stroke with additional
+side effects, and is generally not recom-
+mended. A
+Lipid-Lowering Agents and Cognitive Function
+The concern that lipid-lowering agents may adversely
+affect cognitive function is not currently supported by
+evidence and should not deter their use.
+Antiplatelet Agents
+Recommendations
+10.33 Use aspirin therapy (75–162 mg/day) as a sec-
+ondary prevention strategy in those with diabe-
+tes and a history of ASCVD. A
+10.34 For individuals with ASCVD and documented
+aspirin allergy, clopidogrel (75 mg/day) should
+be used. B
+10.35 Dual antiplatelet therapy (with low-dose
+aspirin and a P2Y12 inhibitor) is reasonable
+for a year after an acute coronary syndrome
+and may have beneﬁts beyond this period. A
+10.36 Long-term treatment with dual antiplatelet
+therapy should be considered for individuals
+with prior coronary intervention, high ische-
+mic risk, and low bleeding risk to prevent
+major adverse cardiovascular events
+(MACE). A
+10.37 Combination therapy with aspirin plus low-
+dose rivaroxaban should be considered for indi-
+viduals with stable CAD and/or PAD and low
+bleeding risk to prevent major adverse limb
+and CV events. A
+AMERICAN DIABETES ASSOCIATION
+VOLUME 41, NUMBER 1, WINTER 2023
+Downloaded from http://diabetesjournals.org/clinical/article-pdf/41/1/4/697551/diaclincd23as01.pdf by guest on 11 August 2025
+
+### Page 19
+
+10.38 Aspirin therapy (75–162 mg/day) may be
+considered as a primary prevention strategy
+in those with diabetes who are at increased
+CV risk, after a comprehensive discussion
+with the patient on the beneﬁts versus the
+comparable increased risk of bleeding. A
+CVD
+Screening
+Recommendations
+In asymptomatic individuals, routine screen-
+ing for CAD is not recommended as it does
+not improve outcomes as long as ASCVD risk
+factors are treated. A
+Consider investigations for CAD in the pres-
+ence of any of the following: atypical cardiac
+symptoms (e.g., unexplained dyspnea, chest
+discomfort); signs or symptoms of associated
+vascular disease including carotid bruits, tran-
+sient ischemic attack, stroke, claudication, or
+PAD; or electrocardiogram (ECG) abnormali-
+ties (e.g., Q waves). E
+Treatment
+Recommendations
+Among people with type 2 diabetes who have
+established ASCVD or established kidney dis-
+ease, an SGLT2 inhibitor or GLP-1 receptor
+agonist with demonstrated CVD beneﬁt (see
+Tables 10.3B and 10.3C in the complete 2023
+Standards of Care) is recommended as part of
+the comprehensive CV risk reduction and/or
+glucose-lowering regimens. A
+10.41a In people with type 2 diabetes and established
+ASCVD, multiple ASCVD risk factors, or dia-
+betic kidney disease (DKD), an SGLT2 inhibi-
+tor with demonstrated CV beneﬁt is
+recommended to reduce the risk of MACE
+and/or HF hospitalization. A
+10.41b In people with type 2 diabetes and established
+ASCVD or multiple risk factors for ASCVD, a
+GLP-1 receptor agonist with demonstrated CV
+beneﬁt is recommended to reduce the risk of
+MACE. A
+10.41c In people with type 2 diabetes and established
+ASCVD or multiple risk factors for ASCVD,
+combined therapy with an SGLT2 inhibitor
+with demonstrated CV beneﬁt and a GLP-1 re-
+ceptor agonist with demonstrated CV beneﬁt
+may be considered for additive reduction in
+the risk of adverse CV and kidney events. A
+10.42a In people with type 2 diabetes and established
+HF with either preserved ejection fraction
+(HFpEF) or reduced ejection fraction (HFrEF),
+an SGLT2 inhibitor with proven beneﬁt in this
+patient population is recommended to reduce
+risk of worsening HF and CV death. A
+10.42b In people with type 2 diabetes and estab-
+lished HF with either HFpEF or HFrEF, an
+SGLT2 inhibitor with proven beneﬁt in this
+patient population is recommended to im-
+prove symptoms, physical limitations, and
+QoL. A
+For people with type 2 diabetes and CKD
+with albuminuria treated with maximum tol-
+erated doses of ACE inhibitor or ARB, addi-
+tion of ﬁnerenone is recommended to
+improve CV outcomes and reduce the risk of
+CKD progression. A
+In people with known ASCVD, particularly
+CAD, ACE inhibitor or ARB therapy is
+recommended to reduce the risk of CV
+events. A
+In people with prior MI, b-blockers should be
+continued for 3 years after the event. B
+Treatment of individuals with HFrEF should
+include a b-blocker with proven CV outcomes
+beneﬁt, unless otherwise contraindicated. A
+In people with type 2 diabetes with stable
+HF, metformin may be continued for
+glucose lowering if eGFR remains
+>30 mL/min/1.73 m2 but should be
+avoided in unstable or hospitalized individ-
+uals with HF. B
+Candidates for advanced or invasive cardiac testing in-
+clude those with 1) typical or atypical cardiac symptoms
+and 2) an abnormal resting ECG.
+11. CKD AND RISK MANAGEMENT
+CKD
+Optimize glucose and BP control and reduce BP vari-
+ability to reduce the risk or slow the progression of
+CKD.
+Screening
+Recommendations
+11.1a
+At least annually, urinary albumin (e.g., spot
+UACR) and eGFR should be assessed in people
+ABRIDGED STANDARDS OF CARE 2023
+DIABETESJOURNALS.ORG/CLINICAL
+Downloaded from http://diabetesjournals.org/clinical/article-pdf/41/1/4/697551/diaclincd23as01.pdf by guest on 11 August 2025
+
+### Page 20
+
+with type 1 diabetes with duration of $5 years
+and in all people with type 2 diabetes regard-
+less of treatment. B
+11.1b
+In people with established DKD, urinary albu-
+min (e.g., spot UACR) and eGFR should be
+monitored 1–4 times per year depending on
+the stage of the disease (see Figure 11.1 in
+the complete 2023 Standards of Care). B
+Treatment
+Recommendations
+11.4a In nonpregnant people with diabetes and hy-
+pertension, either an ACE inhibitor or an ARB
+is recommended for those with moderately in-
+creased albuminuria (UACR 30–299 mg/g
+creatinine) B and is strongly recommended for
+those with severely increased albuminuria
+(UACR $300 mg/g creatinine) and/or eGFR
+<60 mL/min/1.73 m2. A
+11.4b Periodically monitor serum creatinine and po-
+tassium levels for the development of increased
+creatinine and hyperkalemia when ACE inhibi-
+tors, ARBs, and MRAs are used, or hypokalemia
+when diuretics are used. B
+11.4c An ACE inhibitor or an ARB is not recom-
+mended for the primary prevention of CKD in
+people with diabetes who have normal BP, nor-
+mal UACR (<30 mg/g creatinine), and normal
+eGFR. A
+11.4d Do not discontinue renin-angiotensin
+system blockade for increases in serum creati-
+nine (#30%) in the absence of volume deple-
+tion. A
+11.5a For people with type 2 diabetes and DKD,
+use of an SGLT2 inhibitor is recommended
+to reduce CKD progression and CV events in
+patients with an eGFR $20 mL/min/1.73 m2
+and urinary albumin $200 mg/g creatinine. A
+11.5b For people with type 2 diabetes and DKD, use
+of an SGLT2 inhibitor is recommended to re-
+duce CKD progression and CV events in pa-
+tients with an eGFR $20 mL/min/1.73 m2 and
+urinary albumin ranging from normal to
+200 mg/g creatinine. B
+11.5c In people with type 2 diabetes and DKD, con-
+sider use of SGLT2 inhibitors (if eGFR is
+$20 mL/min/1.73 m2), a GLP-1 receptor ago-
+nist, or a nonsteroidal MRA (if eGFR is
+$25 mL/min/1.73 m2) additionally for CV risk
+reduction. A
+11.5d In people with CKD and albuminuria who are
+at increased risk for CV events or CKD progres-
+sion, a nonsteroidal MRA shown to be effective
+in clinical trials is recommended to reduce CKD
+progression and CV events. A
+In people with CKD who have $300 mg/g uri-
+nary albumin, a reduction of 30% or greater in
+mg/g urinary albumin is recommended to slow
+CKD progression. B
+For people with non–dialysis-dependent
+stage 3 or higher CKD, dietary protein intake
+should be aimed to a target level of 0.8 g/kg
+body weight per day. A For patients on dialy-
+sis, higher levels of dietary protein intake
+should be considered since protein energy
+wasting is a major problem in some individu-
+als on dialysis. B
+Patients should be referred for evaluation
+by a nephrologist if they have continuously
+increasing urinary albumin levels and/or con-
+tinuously decreasing eGFR and if the eGFR is
+<30 mL/min/1.73 m2. A
+Promptly refer to a nephrologist for uncertainty
+about the etiology of kidney disease, difﬁcult
+management issues, and rapidly progressing
+kidney disease. A
+Diagnosis, Staging, and Surveillance of DKD
+DKD is diagnosed based on the presence and degree of
+albuminuria and/or reduced eGFR in the absence of
+symptoms of other primary causes of kidney damage.
+Two of three specimens of UACR collected within a
+3- to 6-month period should be abnormal before consid-
+ering a patient to have albuminuria. eGFR should be
+calculated from serum creatinine using a validated for-
+mula. The Chronic Kidney Disease Epidemiology Col-
+laboration (CKD-EPI) equation is generally preferred.
+Race should not be included in the formula as race is a
+social and not a biologic construct. CKD is staged as de-
+tailed in Figure 11.1 in the complete 2023 Standards of
+Care.
+Selection of Glucose-Lowering Medications for
+People With CKD
+eGFR should be monitored while taking metformin, which
+can be used in patients with eGFR $30 mL/min/1.73 m2.
+Reassess beneﬁts and risks of continuing treatment
+when eGFR falls to <45 mL/min/1.73 m2, and do not
+initiate metformin in patients with an eGFR already
+at this level. Temporarily discontinue at the time of or
+AMERICAN DIABETES ASSOCIATION
+VOLUME 41, NUMBER 1, WINTER 2023
+Downloaded from http://diabetesjournals.org/clinical/article-pdf/41/1/4/697551/diaclincd23as01.pdf by guest on 11 August 2025
+
+### Page 21
+
+before iodinated contrast imaging procedures in patients
+with eGFR 30–60 mL/min/1.73 m2.
+See Table 9.2 for general drug-speciﬁc factors, including
+adverse event information, for antihyperglycemic agents.
+Nonsteroidal MRAs in CKD
+Finerenone can reduce DKD, CV events, and HF hos-
+pitalization in people with advanced DKD, but it
+should be used with caution due to a risk of hyperka-
+lemia. It can be used with SGLT2 inhibitors.
+12. RETINOPATHY, NEUROPATHY, AND FOOT CARE
+Management of glycemia, BP, and lipids can reduce the
+risk or slow the progression of microvascular complica-
+tions of diabetes.
+Diabetic Retinopathy
+Screening
+Recommendations
+People with type 2 diabetes should have an ini-
+tial dilated and comprehensive eye examination
+by an ophthalmologist or optometrist at the
+time of the diabetes diagnosis. B
+If there is no evidence of diabetic retinopathy
+(DR) for one or more annual eye exams and
+glycemia is well controlled, then screening ev-
+ery 1–2 years may be considered. If any level of
+DR is present, subsequent dilated retinal exami-
+nations should be repeated at least annually by
+an ophthalmologist or optometrist. If DR is pro-
+gressing or sight-threatening, then examina-
+tions will be required more frequently. B
+Programs that use retinal photography (with
+remote reading or use of a validated assess-
+ment tool) to improve access to DR screening
+can be appropriate screening strategies for DR.
+Such programs need to provide pathways for
+timely referral for a comprehensive eye exami-
+nation when indicated. B
+Treatment
+Recommendations
+Promptly refer individuals with any level of dia-
+betic macular edema, moderate or worse non-
+proliferative DR (a precursor of proliferative
+DR), or any proliferative DR to an ophthalmol-
+ogist who is knowledgeable and experienced in
+the management of DR. A
+12.14 The presence of DR is not a contraindication to
+aspirin therapy for cardioprotection, as aspirin
+does not increase the risk of retinal hemor-
+rhage. A
+For more information about treatment of DR, see “12.
+Retinopathy, Neuropathy, and Foot Care” in the com-
+plete 2023 Standards of Care.
+Neuropathy
+Screening
+Recommendations
+12.15 All people with diabetes should be assessed for
+diabetic peripheral neuropathy (DPN) starting
+at diagnosis of type 2 diabetes and 5 years after
+the diagnosis of type 1 diabetes and at least an-
+nually thereafter. B
+12.16 Assessment for distal symmetric polyneurop-
+athy should include a careful history and as-
+sessment of either temperature or pinprick
+sensation (small-ﬁber function) and vibration
+sensation using a 128-Hz tuning fork (for
+large-ﬁber function). All people with diabetes
+should have annual 10-g monoﬁlament testing
+to identify feet at risk for ulceration and ampu-
+tation. B
+12.17 Symptoms and signs of autonomic neuropathy
+should be assessed in people with diabetes
+starting at diagnosis of type 2 diabetes and
+5 years after the diagnosis of type 1 diabetes
+and at least annually thereafter and with evi-
+dence of other microvascular complications,
+particularly kidney disease and DPN. Screening
+can include asking about orthostatic dizziness,
+syncope, or dry cracked skin in the extremities.
+Signs of autonomic neuropathy include ortho-
+static hypotension, a resting tachycardia, or
+evidence of peripheral dryness or cracking of
+skin. E
+Treatment
+Recommendation
+12.20 Gabapentinoids, serotonin-norepinephrine
+reuptake inhibitors, tricyclic antidepressants,
+and sodium channel blockers are recommended
+as initial pharmacologic treatments for neuro-
+pathic pain in diabetes. A Refer to neurologist
+or pain specialist when pain control is not
+achieved within the scope of practice of the
+treating physician. E
+ABRIDGED STANDARDS OF CARE 2023
+DIABETESJOURNALS.ORG/CLINICAL
+Downloaded from http://diabetesjournals.org/clinical/article-pdf/41/1/4/697551/diaclincd23as01.pdf by guest on 11 August 2025
+
+### Page 22
+
+Foot Care
+Recommendations
+12.21 Perform a comprehensive foot evaluation at
+least annually to identify risk factors for ulcers
+and amputations. A
+12.22 The examination should include inspection of the
+skin, assessment of foot deformities, neurological
+assessment (10-g monoﬁlament testing with at
+least one other assessment: pinprick, tempera-
+ture, vibration), and vascular assessment, includ-
+ing pulses in the legs and feet. B
+12.23 Individuals with evidence of sensory loss or
+prior ulceration or amputation should have
+their feet inspected at every visit. A
+12.24 Obtain a prior history of ulceration, amputa-
+tion, Charcot foot, angioplasty or vascular sur-
+gery, cigarette smoking, retinopathy, and renal
+disease and assess current symptoms of neurop-
+athy (pain, burning, numbness) and vascular
+disease (leg fatigue, claudication). B
+12.25 Initial screening for PAD should include assess-
+ment of lower-extremity pulses, capillary reﬁll
+time, rubor on dependency, pallor on elevation,
+and venous ﬁlling time. Individuals with a his-
+tory of leg fatigue, claudication, and rest pain
+relieved with dependency or decreased or ab-
+sent pedal pulses should be referred for ankle–
+brachial index and for further vascular assess-
+ment as appropriate. B
+12.26 A multidisciplinary approach is recommended
+for individuals with foot ulcers and high-risk
+feet (e.g., those on dialysis, those with Charcot
+foot, those with a history of prior ulcers or am-
+putation, those with PAD). B
+12.27 Refer individuals who smoke and have a his-
+tory of prior lower-extremity complications,
+loss of protective sensation, structural abnor-
+malities, or PAD to foot care specialists for on-
+going preventive care and lifelong
+surveillance. B
+12.28 Provide general preventive foot self-care edu-
+cation to all people with diabetes, including
+those with loss of protective sensation, on ap-
+propriate ways to examine their feet (palpa-
+tion or visual inspection with an unbreakable
+mirror) for daily surveillance of early foot
+problems. B
+12.29 The use of specialized therapeutic footwear is
+recommended for people with diabetes at high
+risk for ulceration, including those with loss of
+protective sensation, foot deformities, ulcers,
+callous formation, poor peripheral circulation,
+or history of amputation. B
+13. OLDER ADULTS
+Recommendations
+Consider the assessment of medical, psycho-
+logical, functional (self-management abili-
+ties), and social domains in older adults to
+provide a framework to determine targets
+and therapeutic approaches for diabetes
+management. B
+Screen for geriatric syndromes (i.e., polyphar-
+macy, cognitive impairment, depression, uri-
+nary incontinence, falls, persistent pain, and
+frailty) in older adults, as they may affect dia-
+betes self-management and diminish QoL. B
+Diabetes in older adults is associated with higher
+rates of premature death, functional disability,
+accelerated muscle loss, coexisting illnesses and
+geriatric syndromes. When assessing older adults
+with diabetes, it is important to accurately
+categorize the type of diabetes as well as their
+complications and treatment-related concerns,
+such as fear of hypoglycemia.
+Neurocognitive Function
+Recommendation
+Screening for early detection of mild cognitive
+impairment or dementia should be performed
+for adults 65 years of age or older at the initial
+visit, annually, and as appropriate. B
+People with diabetes have higher incidences of all-
+cause dementia, Alzheimer disease, and vascular
+dementia. Ongoing studies are evaluating whether
+preventing or delaying diabetes onset may help to
+maintain cognitive function in older adults. However,
+studies examining the effects of intensive glycemic
+and BP control have not demonstrated a reduction in
+cognitive decline.
+Hypoglycemia
+Recommendations
+Because older adults with diabetes have a
+greater risk of hypoglycemia than younger
+adults, episodes of hypoglycemia should be
+ascertained and addressed at routine visits. B
+For older adults with type 2 diabetes on mul-
+tiple daily doses of insulin, CGM should be
+AMERICAN DIABETES ASSOCIATION
+VOLUME 41, NUMBER 1, WINTER 2023
+Downloaded from http://diabetesjournals.org/clinical/article-pdf/41/1/4/697551/diaclincd23as01.pdf by guest on 11 August 2025
+
+### Page 23
+
+considered to improve glycemic outcomes
+and decrease glucose variability. B
+Older adults are at higher risk of hypoglycemia for
+many reasons and should be routinely queried about
+hypoglycemia and hypoglycemia unawareness. Glyce-
+mic targets and pharmacologic treatments may need to
+be adjusted to minimize hypoglycemia.
+Treatment Goals
+Providers caring for older adults with diabetes must take
+clinical, cognitive, and functional differences into consider-
+ation when setting and prioritizing treatment goals.
+Table 13.1 provides a treatment goal framework for older
+patients.
+Lifestyle Management
+Recommendations
+13.13 Optimal nutrition and protein intake is recom-
+mended for older adults; regular exercise, in-
+cluding aerobic activity, weight-bearing
+exercise, and/or resistance training, should be
+encouraged in all older adults who can safely
+engage in such activities. B
+13.14 For older adults with type 2 diabetes, overweight/
+obesity, and capacity to safely exercise, an inten-
+sive lifestyle intervention focused on dietary
+changes, physical activity, and modest weight loss
+(e.g., 5–7%) should be considered for its beneﬁts
+on QoL, mobility and physical functioning, and
+cardiometabolic risk factor control. A
+TABLE 13.1 Framework for Considering Treatment Goals for Glycemia, BP, and Dyslipidemia in Older Adults With
+Diabetes
+Patient
+Characteristics/
+Health Status
+Rationale
+Reasonable A1C
+Goal‡
+Fasting or
+Preprandial
+Glucose
+Bedtime Glucose
+BP
+Lipids
+Healthy (few
+coexisting chronic
+illnesses, intact
+cognitive and
+functional status)
+Longer remaining
+life expectancy
+<7.0–7.5%
+(53–58 mmol/mol)
+80–130 mg/dL
+(4.4–7.2 mmol/L)
+80–180 mg/dL
+(4.4–10.0 mmol/L)
+<130/80 mmHg
+Statin, unless
+contraindicated or
+not tolerated
+Complex/
+intermediate
+(multiple coexisting
+chronic illnesses*
+or two or more
+instrumental ADL
+impairments or
+mild-to-moderate
+cognitive
+impairment)
+Intermediate
+remaining life
+expectancy, high
+treatment burden,
+hypoglycemia
+vulnerability, fall
+risk
+<8.0%
+(64 mmol/mol)
+90–150 mg/dL
+(5.0–8.3 mmol/L)
+100–180 mg/dL
+(5.6–10.0 mmol/L)
+<130/80 mmHg
+Statin, unless
+contraindicated or
+not tolerated
+Very complex/poor
+health (LTC or end-
+stage chronic
+illnesses** or
+moderate-to-severe
+cognitive
+impairment or two
+or more ADL
+impairments)
+Limited remaining
+life expectancy
+makes beneﬁt
+uncertain
+Avoid reliance on
+A1C; glucose
+control decisions
+should be based
+on avoiding
+hypoglycemia and
+symptomatic
+hyperglycemia
+100–180 mg/dL
+(5.6–10.0 mmol/L)
+110–200 mg/dL
+(6.1–11.1 mmol/L)
+<140/90 mmHg
+Consider
+likelihood of
+beneﬁt with statin
+This table represents a consensus framework for considering treatment goals for glycemia, BP, and dyslipidemia in older adults with diabe-
+tes. The patient characteristic categories are general concepts. Not every patient will clearly fall into a particular category. Consideration of
+patient and caregiver preferences is an important aspect of treatment individualization. Additionally, a patient’s health status and preferen-
+ces may change over time. ‡A lower A1C goal may be set for an individual if achievable without recurrent or severe hypoglycemia or un-
+due treatment burden. *Coexisting chronic illnesses are conditions serious enough to require medications or lifestyle management and may
+include arthritis, cancer, HF, depression, emphysema, falls, hypertension, incontinence, stage 3 or worse CKD, MI, and stroke. “Multiple”
+means at least three, but many patients may have ﬁve or more. **The presence of a single end-stage chronic illness, such as stage 3–4 HF
+or oxygen-dependent lung disease, CKD requiring dialysis, or uncontrolled metastatic cancer, may cause signiﬁcant symptoms or impair-
+ment of functional status and signiﬁcantly reduce life expectancy. ADL, activities of daily living. Adapted from Kirkman MS, Briscoe VJ,
+Clark N, et al. Diabetes Care 2012;35:2650–2664.
+ABRIDGED STANDARDS OF CARE 2023
+DIABETESJOURNALS.ORG/CLINICAL
+Downloaded from http://diabetesjournals.org/clinical/article-pdf/41/1/4/697551/diaclincd23as01.pdf by guest on 11 August 2025
+
+### Page 24
+
+Pharmacologic Therapy
+Recommendations
+13.15 In older adults with type 2 diabetes at in-
+creased risk of hypoglycemia, medication clas-
+ses with low risk of hypoglycemia are
+preferred. B
+13.16 Overtreatment of diabetes is common in older
+adults and should be avoided. B
+13.17 Deintensiﬁcation of treatment goals is recom-
+mended to reduce the risk of hypoglycemia if it
+can be achieved within the individualized A1C
+target. B
+13.18 Simpliﬁcation of complex treatment plans (espe-
+cially insulin) is recommended to reduce the
+risk of hypoglycemia and polypharmacy and de-
+crease the burden of the disease if it can be
+achieved within the individualized A1C target. B
+13.19 Consider costs of care and insurance coverage
+rules when developing treatment plans in or-
+der to reduce risk of cost-related barriers to
+adherence. B
+Older adults require individualized diabetes phar-
+macotherapy and glycemic targets. See Figure 9.3 for
+general recommendations regarding person- and drug-
+speciﬁc factors to consider when selecting glucose-
+lowering agents. Providers should consider the cost and
+complexity of treatment to reduce barriers to adherence.
+Metformin is the ﬁrst-line agent for older adults with
+type 2 diabetes, although it can cause problematic
+gastrointestinal side effects and vitamin B12 deﬁ-
+ciency. Thiazolidinediones and longer-acting sulfo-
+nylureas should be avoided. Dipeptidyl peptidase 4
+inhibitors are well tolerated. GLP-1 receptor agonists
+and SGLT2 inhibitors have CV and renal beneﬁts
+that extend to older adults, although class-speciﬁc
+side effects may limit their use. Multiple daily insulin
+therapy may be too complex for many older patients.
+Simpliﬁcation of the insulin plan to match an indi-
+vidual’s self-management abilities has been shown
+to reduce hypoglycemia and disease-related distress
+without worsening glycemic outcomes. Figure 13.1
+in the complete 2023 Standards of Care provides an
+approach to insulin plan simpliﬁcation.
+Treatment in Skilled Nursing Facilities and
+Nursing Homes
+Recommendations
+13.20 Consider diabetes education for the staff of
+long-term care (LTC) and rehabilitation
+facilities to improve the management of older
+adults with diabetes. E
+13.21 People with diabetes residing in LTC
+facilities need careful assessment to establish
+individualized glycemic goals and to make
+appropriate choices of glucose-lowering
+agents based on their clinical and functional
+status. E
+13.22 Consider use of CGM to assess risk for hypogly-
+cemia in older adults treated with sulfonylureas
+or insulin. E
+Older adults in LTC may have irregular and unpredict-
+able meal consumption, undernutrition, anorexia, or
+impaired swallowing. Meals tailored to patients’ cul-
+ture, preferences, and personal goals may increase QoL,
+satisfaction with meals, and nutrition status. It may be
+helpful to give insulin after meals to ensure that the
+dose is appropriate for the amount of carbohydrate con-
+sumed in the meal.
+End-of-Life Care
+Recommendations
+13.23 When palliative care is needed in older adults
+with diabetes, HCPs should initiate conversa-
+tions regarding the goals and intensity of care.
+Strict glucose and BP control are not necessary E,
+and simpliﬁcation of regimens can be considered.
+Similarly, the intensity of lipid management can
+be relaxed, and withdrawal of lipid-lowering
+therapy may be appropriate. A
+13.24 Overall comfort, prevention of distressing
+symptoms, and preservation of QoL and dignity
+are primary goals for diabetes management at
+the end of life. C
+14. CHILDREN AND ADOLESCENTS
+The management of diabetes in children and adoles-
+cents cannot simply be derived from care routinely pro-
+vided to adults with diabetes. The epidemiology,
+pathophysiology, developmental considerations, and re-
+sponse to therapy in pediatric-onset diabetes are differ-
+ent from adult diabetes.
+See “14. Children and Adolescents” in the complete
+2023 Standards of Care for speciﬁc recommendations
+regarding the comprehensive treatment of type 1 and
+type 2 diabetes in children and adolescents. The ADA
+position statements “Type 1 Diabetes in Children and
+Adolescents” and “Evaluation and Management of
+AMERICAN DIABETES ASSOCIATION
+VOLUME 41, NUMBER 1, WINTER 2023
+Downloaded from http://diabetesjournals.org/clinical/article-pdf/41/1/4/697551/diaclincd23as01.pdf by guest on 11 August 2025
+
+### Page 25
+
+Youth-Onset Type 2 Diabetes” provide additional
+information.
+Type 1 Diabetes
+A multidisciplinary team of specialists trained in pediat-
+ric diabetes management and sensitive to the challenges
+of children and adolescents with type 1 diabetes and their
+families, as well as the unique aspects of pediatric diabe-
+tes management, should provide care for this population.
+Type 2 Diabetes
+Evidence suggests that type 2 diabetes in youth is differ-
+ent not only from type 1 diabetes, but also from type 2
+diabetes in adults, with a more rapid, progressive de-
+cline in b-cell function and accelerated development of
+diabetes complications.
+Management
+Treatment of youth-onset type 2 diabetes should include
+lifestyle management, diabetes self-management education,
+and pharmacologic treatment. Self-management in pediat-
+ric diabetes involves both the youth and their adult
+caregivers. Current pharmacologic treatment options for
+youth-onset type 2 diabetes are limited to three classes of
+drugs: insulin, metformin, and, in those $10 years of age
+with no contraindications, GLP-1 receptor agonists indicated
+for use in youth. As comorbidities may already be present at
+the time of diagnosis, screening and treatment of risk factors
+are recommended. Consideration of the sociocultural con-
+text and efforts to personalize diabetes management are of
+critical importance to minimize barriers to care, enhance ad-
+herence, and maximize response to treatment.
+Glycemic Targets
+Recommendations
+A reasonable A1C target for most children
+and adolescents with type 2 diabetes is <7%
+(53 mmol/mol). More stringent A1C targets
+(such as <6.5% [48 mmol/mol]) may be ap-
+propriate for selected individuals if they can
+be achieved without signiﬁcant hypoglycemia
+or other adverse effects of treatment. Appro-
+priate individuals might include those with
+short duration of diabetes and lesser degrees
+of b-cell dysfunction and individuals treated
+with lifestyle or metformin only who achieve
+signiﬁcant weight improvement. E
+Less stringent A1C goals (such as 7.5%
+[58 mmol/mol]) may be appropriate if there
+is an increased risk of hypoglycemia. E
+Pharmacologic Management
+Recommendations
+Initiate pharmacologic therapy, in addition to
+behavioral counseling for healthful nutrition
+and physical activity changes, at diagnosis of
+type 2 diabetes. A
+Use of medications not approved by the FDA
+for youth with type 2 diabetes is not recom-
+mended outside of research trials. B
+In the complete 2023 Standards of Care, see recommen-
+dations 14.67–14.73 for guidance on the pharmacologic
+management of type 2 diabetes in youth and Tables
+14.1A and 14.1B for screening and treatment recom-
+mendations for type 1 and type 2 diabetes in youth.
+Transition From Pediatric to Adult Care
+Recommendation
+14.111 Pediatric diabetes care teams should begin to
+prepare youth for transition to adult health
+care in early adolescence and, at the latest, at
+least 1 year before the transition. E
+To prevent a lapse in care, coordination between the pe-
+diatric and adult care teams is recommended. See the
+ADA position statement, “Diabetes Care for Emerging
+Adults: Recommendations for Transition from Pediatric
+to Adult Diabetes Care Systems” for a more comprehen-
+sive discussion.
+15. MANAGEMENT OF DIABETES IN
+PREGNANCY
+Diabetes confers signiﬁcantly greater maternal and fetal
+risk largely related to the degree of hyperglycemia but
+also related to chronic complications and comorbidities
+of diabetes. In general, speciﬁc risks of diabetes in preg-
+nancy include spontaneous abortion, fetal anomalies,
+preeclampsia, fetal demise, macrosomia, neonatal hy-
+poglycemia, hyperbilirubinemia, and neonatal respira-
+tory distress syndrome, among others. In addition,
+diabetes in pregnancy may increase the risk of obesity,
+hypertension, and type 2 diabetes in offspring later in
+life.
+Preconception Counseling and Care
+Recommendations
+Starting at puberty and continuing in all peo-
+ple with diabetes and reproductive potential,
+ABRIDGED STANDARDS OF CARE 2023
+DIABETESJOURNALS.ORG/CLINICAL
+Downloaded from http://diabetesjournals.org/clinical/article-pdf/41/1/4/697551/diaclincd23as01.pdf by guest on 11 August 2025
+
+### Page 26
+
+preconception counseling should be incorpo-
+rated into routine diabetes care. A
+Family planning should be discussed, and effec-
+tive contraception (with consideration of long-
+acting, reversible contraception) should be
+prescribed and used until an individual’s treat-
+ment plan and A1C are optimized for preg-
+nancy. A
+Preconception counseling should address the
+importance of achieving glucose levels as close
+to normal as is safely possible, ideally A1C
+<6.5% (48 mmol/mol), to reduce the risk of
+congenital anomalies, preeclampsia, macroso-
+mia, preterm birth, and other complications. A
+In addition to focused attention on achieving
+glycemic targets A, standard preconception
+care should be augmented with extra focus on
+nutrition, diabetes education, and screening for
+diabetes comorbidities and complications. B
+Individuals with preexisting type 1 or type 2
+diabetes who are planning a pregnancy or
+who have become pregnant should be coun-
+seled on the risk of development and/or pro-
+gression of DR. Dilated eye examinations
+should occur ideally before pregnancy or in
+the ﬁrst trimester, and then pregnant individ-
+uals should be monitored every trimester and
+for 1 year postpartum as indicated by the de-
+gree of retinopathy and as recommended by
+the eye care HCP. B
+The preconception care of people with diabetes is detailed
+in Table 15.1 in the complete 2023 Standards of Care.
+Management of GDM
+Recommendations
+Lifestyle behavior change is an essential com-
+ponent of management of GDM and may suf-
+ﬁce as treatment for many individuals. Insulin
+should be added if needed to achieve glyce-
+mic targets. A
+Insulin is the preferred medication for treating
+hyperglycemia in GDM. Metformin and glybur-
+ide should not be used as ﬁrst-line agents, as
+both cross the placenta to the fetus. A Other
+oral and noninsulin injectable glucose-lowering
+medications lack long-term safety data.
+Telehealth visits for pregnant people with
+GDM improve outcomes compared with stan-
+dard in-person care. A
+Pregnancy and Drug Considerations
+Recommendations
+In pregnant individuals with diabetes and
+chronic hypertension, a BP threshold of 140/90
+mmHg for initiation or titration of therapy is as-
+sociated with better pregnancy outcomes than
+reserving treatment for severe hypertension,
+with no increase in risk of small-for-gestational-
+age birth weight. A There are limited data on
+the optimal lower limit, but therapy should be
+lessened for BP <90/60 mmHg. E A BP target
+of 110–135/85 mmHg is suggested in the
+interest of reducing the risk for accelerated
+maternal hypertension. A
+Potentially harmful medications in pregnancy
+(i.e., ACE inhibitors, ARBs, statins) should be
+stopped prior to conception and avoided in sex-
+ually active individuals of childbearing potential
+who are not using reliable contraception. B
+Postpartum Care
+Recommendations
+Insulin resistance decreases dramatically im-
+mediately postpartum, and insulin require-
+ments need to be evaluated and adjusted as
+they are often roughly half the prepregnancy
+requirements for the initial few days postpar-
+tum. C
+A contraceptive plan should be discussed and
+implemented with all people with diabetes of
+reproductive potential. A
+Screen individuals with a recent history of
+GDM at 4–12 weeks postpartum, using the
+75-g OGTT and clinically appropriate non-
+pregnancy diagnostic criteria. B
+Individuals with overweight/obesity and a his-
+tory of GDM found to have prediabetes should
+receive intensive lifestyle interventions and/or
+metformin to prevent diabetes. A
+Breastfeeding is recommended to reduce the
+risk of maternal type 2 diabetes and should be
+considered when choosing whether to breast-
+feed or formula feed. B
+Individuals with a history of GDM should
+have lifelong screening for the development
+of type 2 diabetes or prediabetes every
+1–3 years. B
+Postpartum care should include psychosocial
+assessment and support for self-care. E
+AMERICAN DIABETES ASSOCIATION
+VOLUME 41, NUMBER 1, WINTER 2023
+Downloaded from http://diabetesjournals.org/clinical/article-pdf/41/1/4/697551/diaclincd23as01.pdf by guest on 11 August 2025
+
+### Page 27
+
+16. DIABETES CARE IN THE HOSPITAL
+Among hospitalized individuals, hyperglycemia, hypo-
+glycemia, and glucose variability are associated with ad-
+verse outcomes, including death. Therefore, careful
+management of people with diabetes during hospitali-
+zation has direct and immediate beneﬁts. When caring
+for hospitalized people with diabetes, consult with a
+specialized diabetes or glucose management team when
+possible.
+Hospital Care Delivery Standards
+Recommendations
+16.1 Perform an A1C test on all people with diabetes
+or hyperglycemia (blood glucose >140 mg/dL
+[7.8 mmol/L]) admitted to the hospital if not
+performed in the prior 3 months. B
+16.2 Insulin should be administered using validated
+written or computerized protocols that allow for
+predeﬁned adjustments in the insulin dosage
+based on glycemic ﬂuctuations. B
+High-quality hospital care for diabetes requires stand-
+ards for care delivery, which are best implemented us-
+ing structured order sets, and quality improvement
+strategies for process improvement.
+Glycemic Targets in Hospitalized Adults
+Recommendations
+16.4 Insulin therapy should be initiated for the
+treatment of persistent hyperglycemia starting
+at a threshold $180 mg/dL (10.0 mmol/L)
+(checked on two occasions). Once insulin
+therapy is started, a target glucose range of
+140–180 mg/dL (7.8–10.0 mmol/L) is recom-
+mended for most critically ill and noncritically
+ill patients. A
+16.5 More stringent goals, such as 110–140 mg/dL
+(6.1–7.8 mmol/L) or 100–180 mg/dL (5.6–
+10.0 mmol/L), may be appropriate for selected
+patients and are acceptable if they can be
+achieved without signiﬁcant hypoglycemia. C
+Hyperglycemia in hospitalized patients is deﬁned as
+blood glucose levels >140 mg/dL (7.8 mmol/L). Hypo-
+glycemia in hospitalized patients is classiﬁed the same
+as in any setting (Table 6.4).
+BGM
+In hospitalized individuals with diabetes who are eat-
+ing, point-of-care (POC) glucose monitoring should be
+performed before meals; in those not eating, glucose
+monitoring is advised every 4–6 hours. Although CGM
+has theoretical advantages over POC glucose monitor-
+ing in detecting and reducing the incidence of hypogly-
+cemia, it has not been approved by the FDA for
+inpatient use.
+Glucose-Lowering Treatment in Hospitalized
+Patients
+Recommendations
+Basal insulin or a basal plus bolus correction in-
+sulin regimen is the preferred treatment for
+noncritically ill hospitalized patients with poor
+oral intake or those who are taking nothing by
+mouth. A
+An insulin regimen with basal, prandial, and
+correction components is the preferred treat-
+ment for most noncritically ill hospitalized pa-
+tients with adequate nutritional intake. A
+Use of a correction or supplemental insulin
+without basal insulin (often referred to as a
+sliding scale) in the inpatient setting is discour-
+aged. A
+Insulin Therapy
+In the critical care setting, continuous intravenous insu-
+lin infusion is the most effective method for achieving
+glycemic targets. When discontinuing intravenous insu-
+lin, a transition protocol is associated with less morbid-
+ity and lower costs of care.
+In the noncritical care setting, insulin is the preferred
+treatment for hyperglycemia. However, in certain cir-
+cumstances, it may be appropriate to continue home
+therapies, including oral glucose-lowering medications.
+The safety and efﬁcacy of noninsulin glucose-lowering
+therapies in the hospital setting is an area of active re-
+search. (See “16. Diabetes Care in the Hospital” in the
+complete 2023 Standards of Care for details.) If oral
+medications are held in the hospital but will be rein-
+stated after discharge, there should be a protocol for
+guiding resumption of home medications 1–2 days prior
+to discharge.
+An insulin schedule with basal and correction compo-
+nents is necessary for all hospitalized individuals
+with type 1 diabetes, even when taking nothing by
+mouth, with the addition of prandial insulin when
+eating.
+ABRIDGED STANDARDS OF CARE 2023
+DIABETESJOURNALS.ORG/CLINICAL
+Downloaded from http://diabetesjournals.org/clinical/article-pdf/41/1/4/697551/diaclincd23as01.pdf by guest on 11 August 2025
+
+### Page 28
+
+Hypoglycemia
+Recommendations
+A hypoglycemia management protocol should
+be adopted and implemented by each hospital
+or hospital system. A plan for preventing and
+treating hypoglycemia should be established
+for each individual. Episodes of hypoglycemia
+in the hospital should be documented in the
+medical record and tracked for quality improve-
+ment/quality assessment. E
+16.10 Treatment regimens should be reviewed and
+changed as necessary to prevent further hypo-
+glycemia when a blood glucose value of <70
+mg/dL (3.9 mmol/L) is documented. C
+People with or without diabetes may experience hypogly-
+cemia in the hospital setting. While hypoglycemia is associ-
+ated with increased mortality, in many cases, it is a marker
+of an underlying disease rather than the cause of fatality.
+Insulin is one of the most common drugs causing adverse
+events in hospitalized patients, and errors in insulin dos-
+ing and/or administration occur relatively frequently.
+MNT in the Hospital
+The goals of MNT in the hospital are to provide ade-
+quate calories to meet metabolic demands, optimize
+glycemic outcomes, address personal food preferences,
+and facilitate the creation of a discharge plan.
+Self-Management in the Hospital
+Diabetes self-management in the hospital may be ap-
+propriate for speciﬁc individuals who wish to continue
+to perform self-care while acutely ill.
+Standards for Special Situations
+See “16. DIABETES CARE IN THE HOSPITAL” in the
+complete 2023 Standards of Care for guidance on en-
+teral/parenteral feedings, glucocorticoid therapy, peri-
+operative care, and DKA and hyperosmolar
+hyperglycemic state.
+Transition From the Hospital to the Ambulatory
+Setting
+Recommendation
+16.11 A structured discharge plan should be tailored
+to the individual with diabetes. B
+Discharge planning should begin at admission and be
+updated as individual needs change. See “16. Diabetes
+Care in the Hospital” in the complete 2023 Standards of
+Care for a discussion of appropriate discharge planning.
+Preventing Admissions and Readmissions
+People with diabetes are nearly twice as likely as those
+without diabetes to be readmitted after hospitalization.
+Strategies to reduce readmissions include targeting
+ketosis-prone type 1 diabetes, treating individuals
+with admission A1C >9% (75 mmol/mol) with insu-
+lin, and implementing a transitional care model.
+17. DIABETES ADVOCACY
+For a list of ADA advocacy position statements, includ-
+ing “Diabetes and Driving” and “Diabetes and Employ-
+ment,” see “17. Diabetes Advocacy” in the complete
+2023 Standards of Care.
+ACKNOWLEDGMENTS
+This abridged version of the Standards of Care in Diabetes—2023
+was created by the ADA’s Primary Care Advisory Group (PCAG),
+with special thanks to PCAG chair Hope Feldman, CRNP, FNP-
+BC, of Philadelphia, PA; ADA lead Nuha Ali ElSayed, MD, MMSc;
+Rozalina G. McCoy, MD, MS, of Rochester, MN; Joy Moverley,
+DHSc, MPH, PA-C, of Vallejo, CA; Sean M. Oser, MD, MPH, of
+Aurora, CO; Alissa R. Segal, PharmD, CDCES, CDTC, FCCP, of
+Boston, MA; and Jennifer Trujillo, PharmD, FCCP, BCPS,
+CDCES, BC-ADM, of Aurora, CO. Christopher W. Jones, MD, of
+Murray, UT; Scott J. Pilla, MD, MHS, of Baltimore, MD; and Nay
+Linn Aung, MD, BC-ADM, of Utica, NY, also contributed abridged
+chapters. ADA staff support was provided by Caitlin Krekel,
+MSPH, RD, Sarah Bradley, and Raveendhara R. Bannuru, MD,
+PhD, FAGE.
+The complete Standards of Care in Diabetes—2023 was devel-
+oped by the ADA’s Professional Practice Committee: Nuha Ali
+ElSayed, MD, MMSc (Chair), Grazia Aleppo, MD, Vanita R.
+Aroda, MD, Raveendhara R. Bannuru, MD, PhD, FAGE (Chief
+Methodologist), Florence M. Brown, MD, Dennis Bruemmer,
+MD, PhD, Billy S. Collins, DHSc, PA-C, Marisa E. Hilliard, PhD,
+Diana Isaacs, PharmD, BCPS, BCACP, CDCES, BC-ADM,
+FADCES, FCCP, Eric L. Johnson, MD, Scott Kahan, MD, MPH,
+Kamlesh Khunti, MD, PhD, FRCP, FRCGP, FMedSci, Jose
+Leon, MD, MPH, Sarah K. Lyons, MD, Mary Lou Perry, MS,
+RDN, CDCES, Priya Prahalad, MD, PhD, Richard E. Pratley, MD,
+Jane Jeffrie Seley, DNP, MPH, MSN, BSN, RN, GNP, BC-ADM,
+CDCES, CDTC, FADCES, FAAN, Robert C. Stanton, MD, and
+Robert A. Gabbay, MD, PhD. American College of Cardiology—
+Designated Representatives (Section 10) include Sandeep R.
+Das, MD, MPH, FACC, and Mikhail Kosiborod, MD, FACC,
+FAHA. Designated subject matter experts are Kenneth Cusi,
+MD, FACP, FACE, Christopher H. Gibbons, MD, MMSc, John M.
+Giurini, DPM, Lisa Murdock, Jennifer K. Sun, MD, MPH, Crystal
+C. Woodward, Deborah Young-Hyman, PhD, FTOS, and Fel
+SBM, CDCES. ADA staff are Raveendhara R. Bannuru, MD,
+PhD, FAGE, Nuha Ali ElSayed, MD, MMSc, Robert A. Gabbay,
+MD, PhD, Malaika I. Hill, MA, and Laura S. Mitchell.
+AMERICAN DIABETES ASSOCIATION
+VOLUME 41, NUMBER 1, WINTER 2023
+Downloaded from http://diabetesjournals.org/clinical/article-pdf/41/1/4/697551/diaclincd23as01.pdf by guest on 11 August 2025

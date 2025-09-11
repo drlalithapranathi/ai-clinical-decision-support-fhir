@@ -1,0 +1,42 @@
+{
+  "patient_id": "48369514",
+  "processing_timestamp": "2025-08-12T19:13:16.617109",
+  "guideline_version": "ADA 2023",
+  "clinical_alerts": [
+    {
+      "message": "Low HDL cholesterol 1.81 mg/dL",
+      "priority": "info",
+      "category": "cardiovascular",
+      "evidence": "Low HDL increases cardiovascular risk",
+      "action_required": false,
+      "guideline_reference": ""
+    },
+    {
+      "message": "Physical activity: \u2265150 min/week moderate-intensity aerobic activity",
+      "priority": "info",
+      "category": "lifestyle",
+      "evidence": "ADA 2023 Section 5.29: Physical activity recommendations",
+      "action_required": false,
+      "guideline_reference": ""
+    }
+  ],
+  "medication_recommendations": [],
+  "treatment_goals": [
+    {
+      "parameter": "Preprandial glucose",
+      "target_value": "80-130 mg/dL",
+      "rationale": "ADA 2023 standard preprandial target",
+      "priority": "standard"
+    },
+    {
+      "parameter": "Postprandial glucose",
+      "target_value": "<180 mg/dL",
+      "rationale": "ADA 2023 standard postprandial target",
+      "priority": "standard"
+    }
+  ],
+  "summary": "2 individualized treatment targets",
+  "next_actions": [
+    "Refer for diabetes education and lifestyle interventions"
+  ]
+}

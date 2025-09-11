@@ -1,0 +1,36 @@
+{
+  "cohort_size": 10,
+  "processing_date": "2025-08-12T19:13:16.619562",
+  "guideline_version": "ADA 2023",
+  "aggregate_statistics": {
+    "total_clinical_alerts": 44,
+    "avg_alerts_per_patient": 4.4,
+    "total_medication_recommendations": 7,
+    "avg_medications_per_patient": 0.7
+  },
+  "common_alerts": {
+    "lifestyle": 15,
+    "cardiovascular": 8,
+    "monitoring": 8,
+    "prevention": 6,
+    "education": 5,
+    "diagnosis": 2
+  },
+  "medication_patterns": {
+    "Metformin": 4,
+    "ACE inhibitor or ARB": 2,
+    "Statin": 1
+  },
+  "high_priority_patients": [
+    {
+      "patient_id": "CDME",
+      "urgent_critical_alerts": 1,
+      "alert_summary": "Diabetes diagnosed: A1C 7% (\u22656.5%)"
+    },
+    {
+      "patient_id": "LDME",
+      "urgent_critical_alerts": 1,
+      "alert_summary": "Diabetes diagnosed: A1C 6.7% (\u22656.5%)"
+    }
+  ]
+}

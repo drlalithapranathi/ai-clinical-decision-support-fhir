@@ -1,0 +1,180 @@
+{
+  "patient": {
+    "id": "48367792"
+  },
+  "metabolic": {
+    "a1c": {
+      "latest": {
+        "code": "4548-4",
+        "value": 6.4,
+        "unit": "%",
+        "time": null
+      },
+      "history": [
+        {
+          "code": "4548-4",
+          "value": 6.4,
+          "unit": "%",
+          "time": null
+        }
+      ]
+    },
+    "glucose": {
+      "fasting_plasma": {
+        "latest": {
+          "code": "1558-6",
+          "value": 102.6,
+          "unit": "mg/dL",
+          "time": null
+        }
+      },
+      "plasma": {
+        "latest": null
+      },
+      "whole_blood": {
+        "latest": null
+      },
+      "ogtt_2h_75g": {
+        "latest": null
+      }
+    },
+    "bmi": {
+      "latest": null
+    },
+    "lipids": {
+      "ldl": {
+        "latest": {
+          "code": "13457-7",
+          "value": 4.89,
+          "unit": "mmol/L",
+          "time": null
+        }
+      },
+      "hdl": {
+        "latest": {
+          "code": "2085-9",
+          "value": 1.37,
+          "unit": "mmol/L",
+          "time": null
+        }
+      },
+      "triglycerides": {
+        "latest": {
+          "code": "2571-8",
+          "value": 1.479,
+          "unit": "mmol/L",
+          "time": null
+        }
+      },
+      "total_cholesterol": {
+        "latest": {
+          "code": "2093-3",
+          "value": 6.749,
+          "unit": "mmol/L",
+          "time": null
+        }
+      }
+    },
+    "renal": {
+      "creatinine": {
+        "latest": null
+      },
+      "egfr": {
+        "latest": null
+      },
+      "bun": {
+        "latest": null
+      }
+    },
+    "urine": {
+      "acr": {
+        "latest": null
+      }
+    }
+  },
+  "diabetes_minimal_ok": true,
+  "diabetes_summary": {
+    "a1c": {
+      "code": "4548-4",
+      "value": 6.4,
+      "unit": "%",
+      "time": null
+    },
+    "bmi": null,
+    "glucose": {
+      "fasting_plasma": {
+        "code": "1558-6",
+        "value": 102.6,
+        "unit": "mg/dL",
+        "time": null
+      },
+      "random_plasma_or_whole": null,
+      "ogtt_2h_75g": null
+    },
+    "lipids": {
+      "ldl": {
+        "code": "13457-7",
+        "value": 4.89,
+        "unit": "mmol/L",
+        "time": null
+      },
+      "hdl": {
+        "code": "2085-9",
+        "value": 1.37,
+        "unit": "mmol/L",
+        "time": null
+      },
+      "triglycerides": {
+        "code": "2571-8",
+        "value": 1.479,
+        "unit": "mmol/L",
+        "time": null
+      },
+      "total_cholesterol": {
+        "code": "2093-3",
+        "value": 6.749,
+        "unit": "mmol/L",
+        "time": null
+      }
+    },
+    "renal": {
+      "creatinine": null,
+      "egfr": null
+    },
+    "urine": {
+      "acr": null
+    }
+  },
+  "clinical_assessment": {
+    "risk_factors": {
+      "diabetes_diagnosis": null,
+      "prediabetes_diagnosis": "prediabetes",
+      "cardiovascular_risk": "low",
+      "kidney_disease_stage": "unknown",
+      "hypertension_status": "unknown",
+      "obesity_status": "unknown",
+      "clinical_alerts": [
+        "Prediabetes diagnosed - initiate prevention strategies",
+        "High-risk prediabetes - consider metformin therapy"
+      ]
+    },
+    "treatment_goals": {
+      "a1c_target": 7.0,
+      "bp_target": "130/80",
+      "ldl_target": 100,
+      "treatment_priority": [],
+      "medication_considerations": []
+    },
+    "data_completeness": {
+      "core_diabetes": true,
+      "cardiovascular_risk": false,
+      "kidney_function": false,
+      "completeness_score": 0.3333333333333333
+    }
+  },
+  "provenance": {
+    "fhir_base_url": "https://hapi.fhir.org/baseR4",
+    "collection_timestamp": "2025-08-10T22:33:23.605895",
+    "ada_guidelines_version": "2023"
+  }
+}

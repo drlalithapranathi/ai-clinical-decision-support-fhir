@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+requests
+pydantic
+python-dateutil
+cloudscraper
+markitdown
+bs4
+lxml
+markdownify
+requests
+fhir.resources==7.*
+pypdf

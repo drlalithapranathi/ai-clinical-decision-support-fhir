@@ -1,4 +1,4 @@
-# LLM-Enhanced Clinical Decision Support with FHIR Integration
+# LLM-Enhanced Clinical Decision Support with FHIR
 
 A medical AI evaluation framework that tests the MedGemma language model's ability to diagnose diabetes and recommend treatments based on patient data and clinical guidelines.
 
